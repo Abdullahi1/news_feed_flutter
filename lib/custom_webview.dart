@@ -3,16 +3,16 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
-class WebViewExample extends StatefulWidget {
+class CustomWebView extends StatefulWidget {
   final String url;
 
-  WebViewExample({this.url});
+  CustomWebView({this.url});
 
   @override
-  WebViewExampleState createState() => WebViewExampleState();
+  CustomWebViewState createState() => CustomWebViewState();
 }
 
-class WebViewExampleState extends State<WebViewExample> {
+class CustomWebViewState extends State<CustomWebView> {
   @override
   void initState() {
     super.initState();

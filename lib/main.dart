@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:new_feed/model/NewsResponse.dart';
 import 'package:new_feed/network_model.dart';
 import 'package:new_feed/news_tile.dart';
 
@@ -31,20 +32,22 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomepageState extends State<MyHomePage> {
-  List newsData = [];
   bool isWaiting;
+  Future<NewsResponse> newsResponse;
+  String timesNewYorkUrl =
+      "https://yt3.ggpht.com/a/AATXAJyDX6fn6odU9KqLzyz1jmr6Sf2suzpO0z07ofGTew=s88-c-k-c0x00ffffff-no-rj";
 
-  void getData() async {
+  void getData() {
     isWaiting = true;
     try {
-      var data = await NetworkHelper(
-              sectionName: "home.json",
-              apiKey: "zsWKjQjfhE9P7QUGMReMppfx6FnTICGk")
-          .getNewsData();
-
+      //print(data);
       isWaiting = false;
       setState(() {
-        newsData = data;
+        var helper = NetworkHelper(
+            sectionName: "home.json",
+            apiKey: "zsWKjQjfhE9P7QUGMReMppfx6FnTICGk");
+
+        newsResponse = helper.getNewsData();
       });
     } catch (e) {
       print(e);
@@ -64,37 +67,56 @@ class _MyHomepageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: Builder(
-        builder: (context) {
-          if (isWaiting) {
-            return Center(child: CircularProgressIndicator());
-          } else {
-            return ListView.builder(
-              itemBuilder: (context, index) {
-                if (index == newsData.length) {
-                  return ListTile(
-                    title: Row(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: <Widget>[
-                        CircularProgressIndicator(),
-                      ],
-                    ),
-                  );
-                } else {
-                  return NewsTile(
-                    newsImageUrl: newsData[index]["multimedia"][0]["url"],
-                    newsTitle: newsData[index]["title"],
-                    newsAbstract: newsData[index]["abstract"],
-                    newsUrl: newsData[index]["url"],
-                  );
-                }
-              },
-              padding: EdgeInsets.symmetric(horizontal: 10.0, vertical: 20.0),
-              itemCount: newsData.length,
-            );
-          }
-        },
-      ),
+      body: FutureBuilder<NewsResponse>(
+          future: newsResponse,
+          builder: (context, snapshot) {
+            if (snapshot.hasData) {
+              final newsData = snapshot.data.results;
+              return ListView.builder(
+                itemBuilder: (context, index) {
+                  if (index == newsData.length) {
+                    return ListTile(
+                      title: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: <Widget>[
+                          CircularProgressIndicator(),
+                        ],
+                      ),
+                    );
+                  } else {
+                    return NewsTile(
+                      newsImageUrl: newsData[index].multimedia == null
+                          ? timesNewYorkUrl
+                          : newsData[index].multimedia[0].url,
+                      newsTitle: newsData[index].title,
+                      newsAbstract: newsData[index].abstract,
+                      newsUrl: newsData[index].url,
+                    );
+                  }
+                },
+                padding: EdgeInsets.symmetric(horizontal: 10.0, vertical: 20.0),
+                itemCount: newsData.length,
+              );
+            } else if (snapshot.hasError) {
+              return Center(
+                  child: Column(
+                crossAxisAlignment: CrossAxisAlignment.center,
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Text("${snapshot.error}"),
+                  MaterialButton(
+                    onPressed: () {
+                      getData();
+                    },
+                    color: Colors.blue,
+                    child: Text("Reload"),
+                  ),
+                ],
+              ));
+            } else {
+              return Center(child: CircularProgressIndicator());
+            }
+          }),
     );
   }
 }

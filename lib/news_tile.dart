@@ -18,7 +18,7 @@ class NewsTile extends StatelessWidget {
           Navigator.push(
             context,
             MaterialPageRoute(builder: (context) {
-              return WebViewExample(
+              return CustomWebView(
                 url: newsUrl,
               );
             }),
