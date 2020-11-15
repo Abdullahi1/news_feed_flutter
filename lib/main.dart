@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:new_feed/bloc/news_post_bloc.dart';
+import 'package:new_feed/bloc/news_post_event.dart';
+import 'package:new_feed/bloc/news_post_state.dart';
 import 'package:new_feed/model/NewsResponse.dart';
-import 'package:new_feed/network_model.dart';
+import 'package:new_feed/model/news_constant.dart';
 import 'package:new_feed/news_tile.dart';
 
 void main() {
@@ -17,7 +21,17 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: MyHomePage(title: 'NewsFeed'),
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text("NewsFeed"),
+        ),
+        body: BlocProvider(
+            create: (context) => NewsPostBloc()
+              ..add(NewsPostFetched(
+                  sectionName: NewsSections.home,
+                  apiKey: NewsConstants.apiKey)),
+            child: MyHomePage(title: 'NewsFeed')),
+      ),
     );
   }
 }
@@ -36,87 +50,79 @@ class _MyHomepageState extends State<MyHomePage> {
   Future<NewsResponse> newsResponse;
   String timesNewYorkUrl =
       "https://yt3.ggpht.com/a/AATXAJyDX6fn6odU9KqLzyz1jmr6Sf2suzpO0z07ofGTew=s88-c-k-c0x00ffffff-no-rj";
-
-  void getData() {
-    isWaiting = true;
-    try {
-      //print(data);
-      isWaiting = false;
-      setState(() {
-        var helper = NetworkHelper(
-            sectionName: "home.json",
-            apiKey: "zsWKjQjfhE9P7QUGMReMppfx6FnTICGk");
-
-        newsResponse = helper.getNewsData();
-      });
-    } catch (e) {
-      print(e);
-      print(e.runtimeType);
-    }
-  }
+  NewsPostBloc _newsPostBloc;
 
   @override
   void initState() {
     super.initState();
-    getData();
+    _newsPostBloc = BlocProvider.of<NewsPostBloc>(context);
   }
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.title),
-      ),
-      body: FutureBuilder<NewsResponse>(
-          future: newsResponse,
-          builder: (context, snapshot) {
-            if (snapshot.hasData) {
-              final newsData = snapshot.data.results;
-              return ListView.builder(
-                itemBuilder: (context, index) {
-                  if (index == newsData.length) {
-                    return ListTile(
-                      title: Row(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: <Widget>[
-                          CircularProgressIndicator(),
-                        ],
-                      ),
-                    );
-                  } else {
-                    return NewsTile(
-                      newsImageUrl: newsData[index].multimedia == null
-                          ? timesNewYorkUrl
-                          : newsData[index].multimedia[0].url,
-                      newsTitle: newsData[index].title,
-                      newsAbstract: newsData[index].abstract,
-                      newsUrl: newsData[index].url,
-                    );
-                  }
+    return BlocBuilder<NewsPostBloc, NewsPostState>(builder: (context, state) {
+      if (state is NewsPostInitial) {
+        return Center(child: CircularProgressIndicator());
+      }
+      if (state is NewsPostFailure) {
+        return Center(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.center,
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Text('failed to fetch posts'),
+              MaterialButton(
+                onPressed: () {
+                  _newsPostBloc.add(NewPostRefresh(
+                      sectionName: NewsSections.home,
+                      apiKey: NewsConstants.apiKey));
                 },
-                padding: EdgeInsets.symmetric(horizontal: 10.0, vertical: 20.0),
-                itemCount: newsData.length,
+                color: Colors.blue,
+                child: Text("Reload"),
+              ),
+            ],
+          ),
+        );
+      }
+
+      if (state is NewsPostSuccess) {
+        if (state.newsPost.results.isEmpty) {
+          return Center(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Text('No news currently at the moment'),
+                MaterialButton(
+                  onPressed: () {
+                    _newsPostBloc.add(NewPostRefresh(
+                        sectionName: NewsSections.home,
+                        apiKey: NewsConstants.apiKey));
+                  },
+                  color: Colors.blue,
+                  child: Text("Reload"),
+                ),
+              ],
+            ),
+          );
+        }
+        return ListView.builder(
+            itemBuilder: (context, index) {
+              final newsData = state.newsPost.results;
+              return NewsTile(
+                newsImageUrl: newsData[index].multimedia == null
+                    ? timesNewYorkUrl
+                    : newsData[index].multimedia[0].url,
+                newsTitle: newsData[index].title,
+                newsAbstract: newsData[index].abstract,
+                newsUrl: newsData[index].url,
               );
-            } else if (snapshot.hasError) {
-              return Center(
-                  child: Column(
-                crossAxisAlignment: CrossAxisAlignment.center,
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  Text("${snapshot.error}"),
-                  MaterialButton(
-                    onPressed: () {
-                      getData();
-                    },
-                    color: Colors.blue,
-                    child: Text("Reload"),
-                  ),
-                ],
-              ));
-            } else {
-              return Center(child: CircularProgressIndicator());
-            }
-          }),
-    );
+            },
+            padding: EdgeInsets.symmetric(horizontal: 10.0, vertical: 20.0),
+            itemCount: state.newsPost.results.length);
+      }
+
+      return Center();
+    });
   }
 }
