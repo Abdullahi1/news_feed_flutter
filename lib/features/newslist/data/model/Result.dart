@@ -68,7 +68,7 @@ class Result {
 
   Map<String, dynamic> toJson() {
     final Map<String, dynamic> data = new Map<String, dynamic>();
-    data['`abstract`'] = this.abstract;
+    data['abstract'] = this.abstract;
     data['byline'] = this.byline;
     data['created_date'] = this.created_date;
     data['item_type'] = this.item_type;

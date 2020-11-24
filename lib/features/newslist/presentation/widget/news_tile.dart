@@ -1,5 +1,6 @@
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:new_feed/custom_webview.dart';
+import 'package:new_feed/features/customweb/custom_webview.dart';
 
 class NewsTile extends StatelessWidget {
   final String newsImageUrl;
@@ -7,8 +8,7 @@ class NewsTile extends StatelessWidget {
   final String newsAbstract;
   final String newsUrl;
 
-  NewsTile(
-      {this.newsImageUrl, this.newsTitle, this.newsAbstract, this.newsUrl});
+  NewsTile({this.newsImageUrl, this.newsTitle, this.newsAbstract, this.newsUrl});
 
   @override
   Widget build(BuildContext context) {
@@ -24,7 +24,10 @@ class NewsTile extends StatelessWidget {
             }),
           );
         },
-        leading: Image.network(newsImageUrl),
+        leading: CachedNetworkImage(
+          placeholder: (context, url) => CircularProgressIndicator(),
+          imageUrl: newsImageUrl,
+        ),
         title: Text(
           newsTitle,
           style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20.0),
