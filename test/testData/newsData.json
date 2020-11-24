@@ -1,0 +1,4635 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2020-11-23T14:36:45-05:00",
+  "num_results": 57,
+  "results": [
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Biden Will Nominate First Woman to Lead Intelligence, First Latino to Run Homeland Security",
+      "abstract": "John Kerry, the former secretary of state, will be climate czar, according to the Biden transition team.",
+      "url": "https://www.nytimes.com/2020/11/23/us/politics/biden-nominees.html",
+      "uri": "nyt://article/0e9f1b56-ca77-5200-bdf2-ee5bc42f4b54",
+      "byline": "By Michael Crowley",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:32:34-05:00",
+      "created_date": "2020-11-23T12:00:24-05:00",
+      "published_date": "2020-11-23T12:00:24-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "United States Politics and Government",
+        "United States International Relations"
+      ],
+      "org_facet": [
+        "State Department"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Blinken, Antony J",
+        "Sullivan, Jacob J (1976- )",
+        "Mayorkas, Alejandro",
+        "Haines, Avril D",
+        "Thomas-Greenfield, Linda",
+        "Kerry, John",
+        "Obama, Barack"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23dc-biden-cabinet1-sub/23dc-biden-cabinet1-sub-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Avril Haines, a former deputy C.I.A. director and deputy national security adviser, would be the highest-ranking woman to serve in the intelligence community. ",
+          "copyright": "Stefani Reynolds/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23dc-biden-cabinet1-sub/23dc-biden-cabinet1-sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Avril Haines, a former deputy C.I.A. director and deputy national security adviser, would be the highest-ranking woman to serve in the intelligence community. ",
+          "copyright": "Stefani Reynolds/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23dc-biden-cabinet1-sub/23dc-biden-cabinet1-sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Avril Haines, a former deputy C.I.A. director and deputy national security adviser, would be the highest-ranking woman to serve in the intelligence community. ",
+          "copyright": "Stefani Reynolds/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23dc-biden-cabinet1-sub/23dc-biden-cabinet1-sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Avril Haines, a former deputy C.I.A. director and deputy national security adviser, would be the highest-ranking woman to serve in the intelligence community. ",
+          "copyright": "Stefani Reynolds/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23dc-biden-cabinet1-sub/23dc-biden-cabinet1-sub-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Avril Haines, a former deputy C.I.A. director and deputy national security adviser, would be the highest-ranking woman to serve in the intelligence community. ",
+          "copyright": "Stefani Reynolds/Alamy"
+        }
+      ],
+      "short_url": "https://nyti.ms/3fp4EnD"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "With John Kerry Pick, Biden Selects a ‘Climate Envoy’ With Stature",
+      "abstract": "Mr. Biden said he would name Mr. Kerry to a cabinet-level climate post, giving him the job of persuading global leaders that the United States is prepared to resume a leadership role.",
+      "url": "https://www.nytimes.com/2020/11/23/climate/john-kerry-climate-change.html",
+      "uri": "nyt://article/b4467cea-a43d-5966-b9ab-272fa5ba0886",
+      "byline": "By Lisa Friedman",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:32:34-05:00",
+      "created_date": "2020-11-23T14:07:24-05:00",
+      "published_date": "2020-11-23T14:07:24-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Environment",
+        "Greenhouse Gas Emissions",
+        "United Nations Framework Convention on Climate Change",
+        "United States Politics and Government",
+        "Presidential Transition (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kerry, John",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/climate/23CLI-KERRY1/merlin_165652488_298ed8ed-d1a8-4a12-9ffc-783edd105021-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Kerry has been advocating for action on climate change for decades at state and federal levels.",
+          "copyright": "David Degner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/climate/23CLI-KERRY1/23CLI-KERRY1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Kerry has been advocating for action on climate change for decades at state and federal levels.",
+          "copyright": "David Degner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/climate/23CLI-KERRY1/23CLI-KERRY1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Kerry has been advocating for action on climate change for decades at state and federal levels.",
+          "copyright": "David Degner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/climate/23CLI-KERRY1/23CLI-KERRY1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Kerry has been advocating for action on climate change for decades at state and federal levels.",
+          "copyright": "David Degner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/climate/23CLI-KERRY1/23CLI-KERRY1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Kerry has been advocating for action on climate change for decades at state and federal levels.",
+          "copyright": "David Degner for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3fyH9Zq"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "G.M. Drops Its Support for Trump Climate Rollbacks and Aligns With Biden",
+      "abstract": "General Motors said it would no longer back President Trump’s lawsuit seeking to strip California of the power to set fuel economy standards.",
+      "url": "https://www.nytimes.com/2020/11/23/climate/general-motors-trump.html",
+      "uri": "nyt://article/19dc0509-6d5f-5c8d-8d1d-508d4118a4a2",
+      "byline": "By Coral Davenport",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:32:35-05:00",
+      "created_date": "2020-11-23T14:02:09-05:00",
+      "published_date": "2020-11-23T14:02:09-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Environment",
+        "Greenhouse Gas Emissions",
+        "United States Politics and Government",
+        "Fuel Efficiency",
+        "Electric and Hybrid Vehicles"
+      ],
+      "org_facet": [
+        "General Motors",
+        "Environmental Protection Agency"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/climate/23CLI-GM/merlin_180366369_0fca6ea3-8d39-4fea-bb6b-8c15fe8f22a0-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A General Motors assembly plant in Lansing, Mich., this year.",
+          "copyright": "Jeff Kowalsky/Bloomberg"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/climate/23CLI-GM/23CLI-GM-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A General Motors assembly plant in Lansing, Mich., this year.",
+          "copyright": "Jeff Kowalsky/Bloomberg"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/climate/23CLI-GM/23CLI-GM-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A General Motors assembly plant in Lansing, Mich., this year.",
+          "copyright": "Jeff Kowalsky/Bloomberg"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/climate/23CLI-GM/23CLI-GM-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A General Motors assembly plant in Lansing, Mich., this year.",
+          "copyright": "Jeff Kowalsky/Bloomberg"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/climate/23CLI-GM/23CLI-GM-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 123,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A General Motors assembly plant in Lansing, Mich., this year.",
+          "copyright": "Jeff Kowalsky/Bloomberg"
+        }
+      ],
+      "short_url": "https://nyti.ms/35VppnG"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "How Misinformation ‘Superspreaders’ Seed False Election Theories",
+      "abstract": "Researchers have found that a small group of social media accounts are responsible for the spread of a disproportionate amount of the false posts about voter fraud.",
+      "url": "https://www.nytimes.com/2020/11/23/technology/election-misinformation-facebook-twitter.html",
+      "uri": "nyt://article/c39a2654-d38d-53e0-946e-d95c964a9120",
+      "byline": "By Sheera Frenkel",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:32:34-05:00",
+      "created_date": "2020-11-23T12:09:20-05:00",
+      "published_date": "2020-11-23T12:09:20-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Rumors and Misinformation",
+        "Voter Fraud (Election Fraud)",
+        "Presidential Election of 2020",
+        "Computers and the Internet",
+        "Voting Machines"
+      ],
+      "org_facet": [
+        "Facebook Inc",
+        "Twitter",
+        "Elections Integrity Partnership",
+        "Avaaz.org"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Hardaway, Lynnette (Diamond)",
+        "Richardson, Rochelle (Silk)",
+        "Straka, Brandon",
+        "Trump, Eric F (1984- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/business/23superspreader/23superspreader-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1919,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Guillem Casasus"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/business/23superspreader/23superspreader-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Guillem Casasus"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/business/23superspreader/23superspreader-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Guillem Casasus"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/business/23superspreader/23superspreader-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Guillem Casasus"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/business/23superspreader/23superspreader-articleInline.png",
+          "format": "Normal",
+          "height": 178,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Guillem Casasus"
+        }
+      ],
+      "short_url": "https://nyti.ms/2USY8fp"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Georgia Is a Purple State, but Don’t Expect Centrist Politicians",
+      "abstract": "Georgia flipped blue for Joe Biden, but in its all-important and costly Senate runoff elections, the Republicans are in full attack mode while the Democrats stick to a steady liberal message.",
+      "url": "https://www.nytimes.com/2020/11/23/us/politics/ossoff-perdue-loeffler-warnock.html",
+      "uri": "nyt://article/c8a680f6-37aa-57dc-9249-e4228bf4cafd",
+      "byline": "By Astead W. Herndon and Nick Corasaniti",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:32:35-05:00",
+      "created_date": "2020-11-23T05:00:20-05:00",
+      "published_date": "2020-11-23T05:00:20-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Elections, Senate",
+        "Political Advertising",
+        "Conservatism (US Politics)",
+        "Liberalism (US Politics)",
+        "Voting and Voters",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Loeffler, Kelly L",
+        "Perdue, David A Jr",
+        "Warnock, Raphael G",
+        "Ossoff, Jon"
+      ],
+      "geo_facet": [
+        "Georgia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/us/politics/21georgia-1/merlin_180225771_029bf4f8-d448-4f9a-a10a-495c26a90853-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Democratic Senate candidates in Georgia, the Rev. Raphael Warnock and Jon Ossoff, are hoping to give their party narrow control of the Senate with victories in the Jan. 5 runoff elections.",
+          "copyright": "Nicole Craine for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/us/politics/21georgia-1/21georgia-1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Democratic Senate candidates in Georgia, the Rev. Raphael Warnock and Jon Ossoff, are hoping to give their party narrow control of the Senate with victories in the Jan. 5 runoff elections.",
+          "copyright": "Nicole Craine for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/us/politics/21georgia-1/21georgia-1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Democratic Senate candidates in Georgia, the Rev. Raphael Warnock and Jon Ossoff, are hoping to give their party narrow control of the Senate with victories in the Jan. 5 runoff elections.",
+          "copyright": "Nicole Craine for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/us/politics/21georgia-1/21georgia-1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Democratic Senate candidates in Georgia, the Rev. Raphael Warnock and Jon Ossoff, are hoping to give their party narrow control of the Senate with victories in the Jan. 5 runoff elections.",
+          "copyright": "Nicole Craine for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/us/politics/21georgia-1/merlin_180225771_029bf4f8-d448-4f9a-a10a-495c26a90853-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Democratic Senate candidates in Georgia, the Rev. Raphael Warnock and Jon Ossoff, are hoping to give their party narrow control of the Senate with victories in the Jan. 5 runoff elections.",
+          "copyright": "Nicole Craine for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/36T2RDe"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Small Social Gatherings Aren’t Driving the Virus Surge (So Far)",
+      "abstract": "Yes, the coronavirus can be spread over cocktails and dinners. But these get-togethers do not account for the huge rise in cases seen now, the data show.",
+      "url": "https://www.nytimes.com/2020/11/23/health/coronavirus-holiday-gatherings.html",
+      "uri": "nyt://article/a421b0df-2cce-5209-a3a2-9394c2da7d94",
+      "byline": "By Apoorva Mandavilli",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:32:17-05:00",
+      "created_date": "2020-11-23T13:23:46-05:00",
+      "published_date": "2020-11-23T13:23:46-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Disease Rates",
+        "Coronavirus (2019-nCoV)",
+        "Colleges and Universities",
+        "Restaurants",
+        "Prisons and Prisoners",
+        "Nursing Homes",
+        "Bars and Nightclubs",
+        "Medicine and Health",
+        "Meatpacking Plants and Slaughterhouses",
+        "Weddings and Engagements",
+        "Parties (Social)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Lamont, Ned",
+        "Azar, Alex M II",
+        "Scott, Phil (1958- )",
+        "Walz, Tim"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/science/00virus-gatherings1/merlin_180250395_9575615e-dcc9-4788-8454-0cc399716ee8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "While household gatherings may contribute to community transmission, they are not the engine driving the recent spread of the virus.",
+          "copyright": "David Goldman/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/science/00virus-gatherings1/00virus-gatherings1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "While household gatherings may contribute to community transmission, they are not the engine driving the recent spread of the virus.",
+          "copyright": "David Goldman/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/science/00virus-gatherings1/00virus-gatherings1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "While household gatherings may contribute to community transmission, they are not the engine driving the recent spread of the virus.",
+          "copyright": "David Goldman/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/science/00virus-gatherings1/00virus-gatherings1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "While household gatherings may contribute to community transmission, they are not the engine driving the recent spread of the virus.",
+          "copyright": "David Goldman/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/science/00virus-gatherings1/00virus-gatherings1-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "While household gatherings may contribute to community transmission, they are not the engine driving the recent spread of the virus.",
+          "copyright": "David Goldman/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3l2b0u5"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Pandemic Crowds Bring ‘Rivergeddon’ to Montana’s Rivers",
+      "abstract": "As urbanites flock to forests and rivers to escape coronavirus threats, trailheads are cramped with parked cars and fishing on the Madison River is like a Disneyland ride.",
+      "url": "https://www.nytimes.com/2020/11/23/us/pandemic-montana-wilderness-rush.html",
+      "uri": "nyt://article/ea62150c-c3f6-5c00-8517-0fd476fa1393",
+      "byline": "By Jim Robbins",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:32:14-05:00",
+      "created_date": "2020-11-23T05:00:22-05:00",
+      "published_date": "2020-11-23T05:00:22-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Coronavirus (2019-nCoV)",
+        "Real Estate and Housing (Residential)",
+        "Hikes and Hiking",
+        "Fishing, Sport",
+        "Parks and Other Recreation Areas",
+        "Population",
+        "Rivers"
+      ],
+      "org_facet": [
+        "Trout Unlimited"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Bozeman (Mont)",
+        "Montana",
+        "Yellowstone National Park",
+        "Madison River (Mont-Wyo)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/23RIVERGEDDON-1/merlin_180258882_779e666b-26d0-46d8-94d7-512b060bf93d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crowded parking lot by a trail in Bozeman, Mont., on Friday.",
+          "copyright": "Janie Osborne for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/23RIVERGEDDON-1/23RIVERGEDDON-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crowded parking lot by a trail in Bozeman, Mont., on Friday.",
+          "copyright": "Janie Osborne for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/23RIVERGEDDON-1/23RIVERGEDDON-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crowded parking lot by a trail in Bozeman, Mont., on Friday.",
+          "copyright": "Janie Osborne for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/23RIVERGEDDON-1/23RIVERGEDDON-1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crowded parking lot by a trail in Bozeman, Mont., on Friday.",
+          "copyright": "Janie Osborne for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/23RIVERGEDDON-1/merlin_180258882_779e666b-26d0-46d8-94d7-512b060bf93d-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crowded parking lot by a trail in Bozeman, Mont., on Friday.",
+          "copyright": "Janie Osborne for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/35VEcyH"
+    },
+    {
+      "section": "world",
+      "subsection": "",
+      "title": "Bill Gates, the Virus and the Quest to Vaccinate the World",
+      "abstract": "The billionaire is working with the W.H.O., drugmakers and nonprofits to defeat the coronavirus everywhere, including in the world’s poorest nations. Can they do it?",
+      "url": "https://www.nytimes.com/2020/11/23/world/bill-gates-vaccine-coronavirus.html",
+      "uri": "nyt://article/3093b987-d8ea-5b45-b050-ac673e3e41e3",
+      "byline": "By Megan Twohey and Nicholas Kulish",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:32:16-05:00",
+      "created_date": "2020-11-23T03:00:18-05:00",
+      "published_date": "2020-11-23T03:00:18-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Philanthropy",
+        "Drugs (Pharmaceuticals)",
+        "Epidemics",
+        "Third World and Developing Countries",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Gates, Bill and Melinda, Foundation",
+        "World Health Organization",
+        "Coalition for Epidemic Preparedness Innovations",
+        "Gavi, the Vaccine Alliance",
+        "Serum Institute of India"
+      ],
+      "per_facet": [
+        "Gates, Bill",
+        "Poonawalla, Adar (1981- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/multimedia/00Gates-1/00Gates-1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1780,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Calla Kessler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/multimedia/00Gates-1/00Gates-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Calla Kessler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/multimedia/00Gates-1/00Gates-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Calla Kessler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/multimedia/00Gates-1/00Gates-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Calla Kessler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/multimedia/00Gates-1/00Gates-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 165,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Calla Kessler/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lUXLgk"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "China Says It Remains Open to the World, but Wants to Dictate Terms",
+      "abstract": "China’s leader, Xi Jinping, is pursuing a strategy to make the country’s economy more self-sufficient, while making other places more dependent on it than ever.",
+      "url": "https://www.nytimes.com/2020/11/23/world/asia/china-xi-jinping-globalization.html",
+      "uri": "nyt://article/afc2221b-6f28-599e-881c-da15412b58aa",
+      "byline": "By Steven Lee Myers and Keith Bradsher",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:32:13-05:00",
+      "created_date": "2020-11-23T09:12:08-05:00",
+      "published_date": "2020-11-23T09:12:08-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Economic Conditions and Trends",
+        "Politics and Government",
+        "International Trade and World Market",
+        "United States International Relations",
+        "International Relations"
+      ],
+      "org_facet": [
+        "Asia-Pacific Economic Cooperation",
+        "Communist Party of China"
+      ],
+      "per_facet": [
+        "Xi Jinping"
+      ],
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/world/00China01/merlin_179564478_d5e7e609-e16c-48c5-bc4f-a1d51c4733bf-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Xi Jinping, China’s leader, says his country is not “decoupling” from other economies, but his nation has taken steps in that direction.",
+          "copyright": "Mark Schiefelbein/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/world/00China01/00China01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Xi Jinping, China’s leader, says his country is not “decoupling” from other economies, but his nation has taken steps in that direction.",
+          "copyright": "Mark Schiefelbein/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/world/00China01/00China01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Xi Jinping, China’s leader, says his country is not “decoupling” from other economies, but his nation has taken steps in that direction.",
+          "copyright": "Mark Schiefelbein/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/world/00China01/merlin_179564478_d5e7e609-e16c-48c5-bc4f-a1d51c4733bf-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Xi Jinping, China’s leader, says his country is not “decoupling” from other economies, but his nation has taken steps in that direction.",
+          "copyright": "Mark Schiefelbein/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/world/00China01/merlin_179564478_d5e7e609-e16c-48c5-bc4f-a1d51c4733bf-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Xi Jinping, China’s leader, says his country is not “decoupling” from other economies, but his nation has taken steps in that direction.",
+          "copyright": "Mark Schiefelbein/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3pXtkbQ"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "The 10 Best Books of 2020",
+      "abstract": "The editors of The Times Book Review choose the best fiction and nonfiction titles this year.",
+      "url": "https://www.nytimes.com/2020/11/23/books/review/best-books.html",
+      "uri": "nyt://article/00453889-025e-5bba-a279-af36e50f73a7",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:32:12-05:00",
+      "created_date": "2020-11-23T10:42:05-05:00",
+      "published_date": "2020-11-23T10:42:05-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Two Thousand Twenty"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/13/books/review/13TenBest-Cover-HED_Sub01/13TenBest-Cover-HED_Sub01-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1814,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luis Mazón"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/12/13/books/review/13TenBest-Cover-HED_Sub01/13TenBest-Cover-HED_Sub01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luis Mazón"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/12/13/books/review/13TenBest-Cover-HED_Sub01/13TenBest-Cover-HED_Sub01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luis Mazón"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/12/13/books/review/13TenBest-Cover-HED_Sub01/13TenBest-Cover-HED_Sub01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luis Mazón"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/12/13/books/review/13TenBest-Cover-HED_Sub01/13TenBest-Cover-HED_Sub01-articleInline.jpg",
+          "format": "Normal",
+          "height": 215,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luis Mazón"
+        }
+      ],
+      "short_url": "https://nyti.ms/375kGPT"
+    },
+    {
+      "section": "world",
+      "subsection": "",
+      "title": "Nice to Meet You, Mom. Now Let’s Go Into Quarantine.",
+      "abstract": "For members of the world’s largest diaspora of adoptees, returning to the country of their birth was a rite of passage — until the coronavirus pandemic changed everything. Some found a way to make the trip anyway.",
+      "url": "https://www.nytimes.com/2020/11/23/world/korean-adoptees-reunions.html",
+      "uri": "nyt://article/a4eb564f-b233-5bf9-9353-f8c80db359d2",
+      "byline": "By Bryan Pietsch",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:32:13-05:00",
+      "created_date": "2020-11-23T07:00:10-05:00",
+      "published_date": "2020-11-23T07:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Families and Family Life",
+        "Adoptions",
+        "Quarantine (Life and Culture)",
+        "Korean-Americans"
+      ],
+      "org_facet": [
+        "23andMe"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "South Korea",
+        "Seoul (South Korea)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/20/multimedia/00xp-adoptees1/00xp-adoptees1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1514,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mallory Guy, third from left, and her extended birth family in Cheonan, South Korea.",
+          "copyright": "Jun Michael Park for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/20/multimedia/00xp-adoptees1/00xp-adoptees1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mallory Guy, third from left, and her extended birth family in Cheonan, South Korea.",
+          "copyright": "Jun Michael Park for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/20/multimedia/00xp-adoptees1/00xp-adoptees1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mallory Guy, third from left, and her extended birth family in Cheonan, South Korea.",
+          "copyright": "Jun Michael Park for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/20/multimedia/00xp-adoptees1/00xp-adoptees1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mallory Guy, third from left, and her extended birth family in Cheonan, South Korea.",
+          "copyright": "Jun Michael Park for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/20/multimedia/00xp-adoptees1/00xp-adoptees1-articleInline.jpg",
+          "format": "Normal",
+          "height": 140,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mallory Guy, third from left, and her extended birth family in Cheonan, South Korea.",
+          "copyright": "Jun Michael Park for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/398cuAT"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "New in Paperback: ‘The Grammarians’ and ‘Edison’",
+      "abstract": "Six new paperbacks to check out this week.",
+      "url": "https://www.nytimes.com/2020/11/20/books/review/new-paperbacks.html",
+      "uri": "nyt://article/6bc76317-b23c-59aa-8072-60568e176f69",
+      "byline": "By Jennifer Krauss",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:32:15-05:00",
+      "created_date": "2020-11-20T05:00:04-05:00",
+      "published_date": "2020-11-20T05:00:04-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "In Byron's Wake: The Turbulent Lives of Lord Byron's Wife and Daughter: Annabella Milbanke and Ada Lovelace (Book)",
+        "Searching for Sylvie Lee (Book)",
+        "Our Wild Calling: How Connecting with Animals Can Transform Our Lives--and Save Theirs (Book)",
+        "The Grammarians (Book)",
+        "Edison (Book)",
+        "Dunce (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Seymour, Miranda",
+        "Kwok, Jean",
+        "Louv, Richard",
+        "Schine, Cathleen",
+        "Morris, Edmund (1940- )",
+        "Ruefle, Mary",
+        "Byron, Lord",
+        "Milbanke, Annabella (Lady Byron) (1792-1860)",
+        "Lovelace, Ada (1815-52)",
+        "Edison, Thomas A"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/books/22PAPERROW-GRID/22PAPERROW-GRID-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1053,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/books/22PAPERROW-GRID/22PAPERROW-GRID-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/books/22PAPERROW-GRID/22PAPERROW-GRID-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/books/22PAPERROW-GRID/22PAPERROW-GRID-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/books/22PAPERROW-GRID/22PAPERROW-GRID-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3kOXlGW"
+    },
+    {
+      "section": "dining",
+      "subsection": "drinks",
+      "title": "It’s Time to Put the Noble Grapes in Their Place",
+      "abstract": "Given a chance, many varieties, once scorned or dismissed, have proven they can shine. Why constrain our thinking about them by creating hierarchies?",
+      "url": "https://www.nytimes.com/2020/11/19/dining/drinks/wine-grapes.html",
+      "uri": "nyt://article/ac97e39b-f4d3-5b5c-aa93-0de8fc699691",
+      "byline": "By Eric Asimov",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:32:17-05:00",
+      "created_date": "2020-11-19T11:31:25-05:00",
+      "published_date": "2020-11-19T11:31:25-05:00",
+      "material_type_facet": "",
+      "kicker": "The Pour",
+      "des_facet": [
+        "Wines",
+        "Grapes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/04/dining/19POUR-Illo-Final/04POUR-Illo-Final-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1147,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anuj Shrestha"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/04/dining/19POUR-Illo-Final/04POUR-Illo-Final-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anuj Shrestha"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/04/dining/19POUR-Illo-Final/04POUR-Illo-Final-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anuj Shrestha"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/04/dining/19POUR-Illo-Final/04POUR-Illo-Final-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anuj Shrestha"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/04/dining/19POUR-Illo-Final/04POUR-Illo-Final-articleInline.jpg",
+          "format": "Normal",
+          "height": 106,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anuj Shrestha"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Hg1wOa"
+    },
+    {
+      "section": "briefing",
+      "subsection": "",
+      "title": "The Pandemic Economy",
+      "abstract": "And what else you need to know today.",
+      "url": "https://www.nytimes.com/2020/11/23/briefing/antony-blinken-biden-coronavirus-sidney-powell.html",
+      "uri": "nyt://article/309a6a03-774b-5877-805c-1e4de997e935",
+      "byline": "By David Leonhardt",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T06:38:55-05:00",
+      "created_date": "2020-11-23T06:30:19-05:00",
+      "published_date": "2020-11-23T06:30:19-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/23ambriefing-promo2/23ambriefing-promo2-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Portland, Ore. implemented a 14-day statewide freeze last week.",
+          "copyright": "Mason Trinca for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/23ambriefing-promo2/23ambriefing-promo2-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Portland, Ore. implemented a 14-day statewide freeze last week.",
+          "copyright": "Mason Trinca for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/23ambriefing-promo2/23ambriefing-promo2-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Portland, Ore. implemented a 14-day statewide freeze last week.",
+          "copyright": "Mason Trinca for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/23ambriefing-promo2/23ambriefing-promo2-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Portland, Ore. implemented a 14-day statewide freeze last week.",
+          "copyright": "Mason Trinca for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/us/23ambriefing-promo2/23ambriefing-promo2-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Portland, Ore. implemented a 14-day statewide freeze last week.",
+          "copyright": "Mason Trinca for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IWIgpr"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "What to Know About California’s Vaccine Rollout",
+      "abstract": "Monday: Who will be the first in line to receive the Covid-19 vaccines? Here’s what we know.",
+      "url": "https://www.nytimes.com/2020/11/23/us/covid-vaccine-ca.html",
+      "uri": "nyt://article/cb7a1e34-354d-5d48-8575-2a4b798fc823",
+      "byline": "By Marie Tae McDermott and Jill Cowan",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T11:51:08-05:00",
+      "created_date": "2020-11-23T08:54:31-05:00",
+      "published_date": "2020-11-23T08:54:31-05:00",
+      "material_type_facet": "",
+      "kicker": "California Today",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "California"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/us/20californiatoday/merlin_180092979_2307cc94-f107-4344-aaa0-a3bb3f32bf90-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A volunteer receiving an injection of Moderna’s vaccine candidate earlier this year.",
+          "copyright": "Henry Ford Health System, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/us/20californiatoday/20californiatoday-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A volunteer receiving an injection of Moderna’s vaccine candidate earlier this year.",
+          "copyright": "Henry Ford Health System, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/us/20californiatoday/20californiatoday-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A volunteer receiving an injection of Moderna’s vaccine candidate earlier this year.",
+          "copyright": "Henry Ford Health System, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/us/20californiatoday/20californiatoday-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A volunteer receiving an injection of Moderna’s vaccine candidate earlier this year.",
+          "copyright": "Henry Ford Health System, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/us/20californiatoday/merlin_180092979_2307cc94-f107-4344-aaa0-a3bb3f32bf90-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A volunteer receiving an injection of Moderna’s vaccine candidate earlier this year.",
+          "copyright": "Henry Ford Health System, via Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3nM0jha"
+    },
+    {
+      "section": "podcasts",
+      "subsection": "the-daily",
+      "title": "New York City’s 3 Percent Problem",
+      "abstract": "The nation’s largest public school system defied the odds to reopen for in-person classes. Eight weeks later, the schools are having to shut again.",
+      "url": "https://www.nytimes.com/2020/11/23/podcasts/the-daily/new-york-city-school-reopening.html",
+      "uri": "nyt://article/e46af55c-e5ab-5fe7-b6f3-90009051ef71",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:56:20-05:00",
+      "created_date": "2020-11-23T06:00:07-05:00",
+      "published_date": "2020-11-23T06:00:07-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus Reopenings",
+        "Education (K-12)",
+        "Parenting"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "de Blasio, Bill"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23daily-1/merlin_180181929_bc4fc3ac-e4bb-4042-9565-284df3c35180-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students leaving Public School 110 in Corona, Queens, on Wednesday. New York City’s schools had been open for in-person instruction for just under eight weeks.",
+          "copyright": "Anna Watts for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23daily-1/23daily-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students leaving Public School 110 in Corona, Queens, on Wednesday. New York City’s schools had been open for in-person instruction for just under eight weeks.",
+          "copyright": "Anna Watts for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23daily-1/23daily-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students leaving Public School 110 in Corona, Queens, on Wednesday. New York City’s schools had been open for in-person instruction for just under eight weeks.",
+          "copyright": "Anna Watts for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23daily-1/merlin_180181929_bc4fc3ac-e4bb-4042-9565-284df3c35180-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students leaving Public School 110 in Corona, Queens, on Wednesday. New York City’s schools had been open for in-person instruction for just under eight weeks.",
+          "copyright": "Anna Watts for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23daily-1/merlin_180181929_bc4fc3ac-e4bb-4042-9565-284df3c35180-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students leaving Public School 110 in Corona, Queens, on Wednesday. New York City’s schools had been open for in-person instruction for just under eight weeks.",
+          "copyright": "Anna Watts for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HpvXl0"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Jane Goodall on Chimps, Presidents and Other Alpha Males",
+      "abstract": "The 86-year-old primatologist says it takes more than having opposable thumbs to save our planet.",
+      "url": "https://www.nytimes.com/2020/11/23/opinion/sway-kara-swisher-jane-goodall.html",
+      "uri": "nyt://article/a80c90ce-6fe8-5ff5-b654-f7e43dedf790",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:56:21-05:00",
+      "created_date": "2020-11-23T05:00:07-05:00",
+      "published_date": "2020-11-23T05:00:07-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Evolution (Biology)",
+        "Environment",
+        "Monkeys and Apes"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Goodall, Jane",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Africa"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23sway-goodall-image/23sway-goodall-image-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1619,
+          "width": 1619,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Guerin Blask for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23sway-goodall-image/23sway-goodall-image-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Guerin Blask for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23sway-goodall-image/23sway-goodall-image-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Guerin Blask for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23sway-goodall-image/23sway-goodall-image-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Guerin Blask for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23sway-goodall-image/23sway-goodall-image-articleInline.png",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Guerin Blask for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2J3vcOW"
+    },
+    {
+      "section": "neediest-cases",
+      "subsection": "",
+      "title": "Parents Adjusting to the U.S., Then to Remote Learning",
+      "abstract": "Families found support after the coronavirus pandemic disrupted their children’s education.",
+      "url": "https://www.nytimes.com/2020/11/19/neediest-cases/parents-adjusting-to-the-us-then-to-remote-learning.html",
+      "uri": "nyt://article/9ab2e706-65a6-5568-bb3a-e81a9fad7f64",
+      "byline": "By Jonathan Wolfe",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:56:20-05:00",
+      "created_date": "2020-11-19T05:00:13-05:00",
+      "published_date": "2020-11-19T05:00:13-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [
+        "New York Times Neediest Cases Fund",
+        "First Book",
+        "International Rescue Committee"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/neediest-cases/00ncf-education3/00ncf-education3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jansy Molina de Maldonado and her daughter, Ahilyn, have been regularly reading to Ian.",
+          "copyright": "Lindsay D'Addato for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/neediest-cases/00ncf-education3/00ncf-education3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jansy Molina de Maldonado and her daughter, Ahilyn, have been regularly reading to Ian.",
+          "copyright": "Lindsay D'Addato for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/neediest-cases/00ncf-education3/00ncf-education3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jansy Molina de Maldonado and her daughter, Ahilyn, have been regularly reading to Ian.",
+          "copyright": "Lindsay D'Addato for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/neediest-cases/00ncf-education3/00ncf-education3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jansy Molina de Maldonado and her daughter, Ahilyn, have been regularly reading to Ian.",
+          "copyright": "Lindsay D'Addato for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/neediest-cases/00ncf-education3/00ncf-education3-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jansy Molina de Maldonado and her daughter, Ahilyn, have been regularly reading to Ian.",
+          "copyright": "Lindsay D'Addato for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IPnJn4"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Can This Get Any More Pathetic?",
+      "abstract": "The president and his enablers may look like fools, but they are causing real damage.",
+      "url": "https://www.nytimes.com/2020/11/23/opinion/giuliani-trump-biden-election.html",
+      "uri": "nyt://article/bad1797c-a7bf-5069-8a18-07f3546b302f",
+      "byline": "By Gail Collins and Bret Stephens",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:01:40-05:00",
+      "created_date": "2020-11-23T05:00:12-05:00",
+      "published_date": "2020-11-23T05:00:12-05:00",
+      "material_type_facet": "",
+      "kicker": "The conversation",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Presidential Transition (US)",
+        "Voter Fraud (Election Fraud)",
+        "Coronavirus (2019-nCoV)",
+        "Game of Thrones (TV Program)"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23Conversation/merlin_180211806_f7330929-8c83-4454-800d-e3647a279472-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Lo Scalzo/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23Conversation/merlin_180211806_f7330929-8c83-4454-800d-e3647a279472-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Lo Scalzo/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23Conversation/merlin_180211806_f7330929-8c83-4454-800d-e3647a279472-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Lo Scalzo/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23Conversation/merlin_180211806_f7330929-8c83-4454-800d-e3647a279472-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Lo Scalzo/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23Conversation/merlin_180211806_f7330929-8c83-4454-800d-e3647a279472-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Lo Scalzo/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/3fwLLiI"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Your Brain Is Not for Thinking",
+      "abstract": "In stressful times, this surprising lesson from neuroscience may help to lessen your anxieties.",
+      "url": "https://www.nytimes.com/2020/11/23/opinion/brain-neuroscience-stress.html",
+      "uri": "nyt://article/6985e30e-5fe6-58e2-aa87-f3bce0e563d8",
+      "byline": "By Lisa Feldman Barrett",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:01:40-05:00",
+      "created_date": "2020-11-23T05:00:10-05:00",
+      "published_date": "2020-11-23T05:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Brain",
+        "Anxiety and Stress",
+        "Psychology and Psychologists"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23barrett/23barrett-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Claire Merchlinsky"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23barrett/23barrett-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Claire Merchlinsky"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23barrett/23barrett-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Claire Merchlinsky"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23barrett/23barrett-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Claire Merchlinsky"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23barrett/23barrett-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Claire Merchlinsky"
+        }
+      ],
+      "short_url": "https://nyti.ms/36YSXAi"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "How 4 Covid Experts Will Keep Their Families Safe on Thanksgiving",
+      "abstract": "As the coronavirus pandemic intensifies, is there any safe way to celebrate Thanksgiving? We asked four experts to tell us about their plans and the science that shaped them.",
+      "url": "https://www.nytimes.com/interactive/2020/11/23/opinion/covid-thanksgiving-travel.html",
+      "uri": "nyt://interactive/6bf9d1f6-a160-518b-80cb-94349bac3f66",
+      "byline": "By The New York Times Opinion",
+      "item_type": "Interactive",
+      "updated_date": "2020-11-23T13:01:40-05:00",
+      "created_date": "2020-11-23T05:00:01-05:00",
+      "published_date": "2020-11-23T05:00:01-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Thanksgiving Day",
+        "Families and Family Life",
+        "Coronavirus Risks and Safety Concerns",
+        "Quarantine (Life and Culture)",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/opinion/covid-thanksgiving-travel-1606096132392/covid-thanksgiving-travel-1606096132392-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/opinion/covid-thanksgiving-travel-1606096132392/covid-thanksgiving-travel-1606096132392-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/opinion/covid-thanksgiving-travel-1606096132392/covid-thanksgiving-travel-1606096132392-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/opinion/covid-thanksgiving-travel-1606096132392/covid-thanksgiving-travel-1606096132392-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/opinion/covid-thanksgiving-travel-1606096132392/covid-thanksgiving-travel-1606096132392-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3lVeVug"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "What Makes Trump’s Subversion Efforts So Alarming? His Collaborators",
+      "abstract": "The president has been trying to dismantle our shared beliefs about democracy. And now, his fellow Republicans are helping him.",
+      "url": "https://www.nytimes.com/2020/11/23/opinion/trump-republicans-election-2020.html",
+      "uri": "nyt://article/d537b2ff-bc0e-5ed9-a8f7-5df59e7de381",
+      "byline": "By Henry J. Farrell and Bruce Schneier",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:01:40-05:00",
+      "created_date": "2020-11-23T05:00:10-05:00",
+      "published_date": "2020-11-23T05:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Politics and Government",
+        "Voting and Voters"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Giuliani, Rudolph W"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23farrell-schneier/merlin_180227280_f6a77188-7be4-4773-b386-0e122e167c2f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Drew Angerer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23farrell-schneier/23farrell-schneier-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Drew Angerer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23farrell-schneier/23farrell-schneier-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Drew Angerer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23farrell-schneier/merlin_180227280_f6a77188-7be4-4773-b386-0e122e167c2f-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Drew Angerer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23farrell-schneier/merlin_180227280_f6a77188-7be4-4773-b386-0e122e167c2f-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Drew Angerer/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kWtvAb"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "China Disappeared My Professor. It Can’t Silence His Poetry.",
+      "abstract": "Against overwhelming state violence, poetry might appear to offer little recourse. But for many Uighurs, it’s a powerful form of resistance.",
+      "url": "https://www.nytimes.com/2020/11/23/opinion/uighur-poetry-xinjiang-china.html",
+      "uri": "nyt://article/78bc6d9a-7f67-5533-8a61-626c42fb1f9e",
+      "byline": "By Joshua L. Freeman",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:01:43-05:00",
+      "created_date": "2020-11-23T05:00:13-05:00",
+      "published_date": "2020-11-23T05:00:13-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Poetry and Poets",
+        "Uighurs (Chinese Ethnic Group)",
+        "Forced Labor",
+        "Social Media",
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Dawut, Rahile"
+      ],
+      "geo_facet": [
+        "Xinjiang (China)",
+        "Urumqi (China)",
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/sunday/23freeman/23freeman-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1778,
+          "width": 1779,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Emily Haasch"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/sunday/23freeman/23freeman-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Emily Haasch"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/sunday/23freeman/23freeman-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Emily Haasch"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/sunday/23freeman/23freeman-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Emily Haasch"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/sunday/23freeman/23freeman-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Emily Haasch"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HrV86H"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "A Great Election, Against All Odds",
+      "abstract": "Democracy is hard work. That work paid off.",
+      "url": "https://www.nytimes.com/2020/11/22/opinion/2020-election-success.html",
+      "uri": "nyt://article/06866b41-ae49-5e7e-9e68-1bb3930e2f77",
+      "byline": "By The Editorial Board",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:01:44-05:00",
+      "created_date": "2020-11-22T18:30:06-05:00",
+      "published_date": "2020-11-22T18:30:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Voter Fraud (Election Fraud)",
+        "Absentee Voting",
+        "United States Politics and Government",
+        "Voter Registration and Requirements",
+        "Rumors and Misinformation"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23election2/merlin_179987682_c8d70c51-1638-4ec1-a57c-f420a1589a3e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Recounting presidential ballots by hand at the Gwinnett County Board of Elections in Lawrenceville, Ga. ",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23election2/22election1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Recounting presidential ballots by hand at the Gwinnett County Board of Elections in Lawrenceville, Ga. ",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23election2/22election1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Recounting presidential ballots by hand at the Gwinnett County Board of Elections in Lawrenceville, Ga. ",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23election2/22election1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Recounting presidential ballots by hand at the Gwinnett County Board of Elections in Lawrenceville, Ga. ",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23election2/merlin_179987682_c8d70c51-1638-4ec1-a57c-f420a1589a3e-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Recounting presidential ballots by hand at the Gwinnett County Board of Elections in Lawrenceville, Ga. ",
+          "copyright": "Damon Winter/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2USrbQk"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Trump’s Legal Farce Is Having Tragic Results",
+      "abstract": "There is nothing funny about the Republican Party’s multipronged attack on voting rights.",
+      "url": "https://www.nytimes.com/2020/11/23/opinion/trump-election-courts.html",
+      "uri": "nyt://article/d835d481-071c-5fa9-9a10-b1539c23f3d8",
+      "byline": "By Richard L. Hasen",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:01:47-05:00",
+      "created_date": "2020-11-23T05:00:14-05:00",
+      "published_date": "2020-11-23T05:00:14-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Voter Fraud (Election Fraud)",
+        "Law and Legislation",
+        "Elections, Courts and the Judiciary",
+        "Voter Registration and Requirements",
+        "Federal Courts (US)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Giuliani, Rudolph W",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23Hasen/merlin_179869695_f5985179-5df5-4d16-897d-38da99da034a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A lawn sign in Philadelphia. ",
+          "copyright": "Mark Makela/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23Hasen/23Hasen-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A lawn sign in Philadelphia. ",
+          "copyright": "Mark Makela/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23Hasen/23Hasen-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A lawn sign in Philadelphia. ",
+          "copyright": "Mark Makela/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23Hasen/merlin_179869695_f5985179-5df5-4d16-897d-38da99da034a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A lawn sign in Philadelphia. ",
+          "copyright": "Mark Makela/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23Hasen/merlin_179869695_f5985179-5df5-4d16-897d-38da99da034a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A lawn sign in Philadelphia. ",
+          "copyright": "Mark Makela/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/35VE6aj"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Vandalizing Our Democracy",
+      "abstract": "Donald Trump cares about nothing else except undermining our country’s election results.",
+      "url": "https://www.nytimes.com/2020/11/22/opinion/trump-election-democracy.html",
+      "uri": "nyt://article/dc9837f0-45a8-5863-bc4c-02fe3d9b4bc7",
+      "byline": "By Charles M. Blow",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:01:45-05:00",
+      "created_date": "2020-11-22T19:00:06-05:00",
+      "published_date": "2020-11-22T19:00:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Transition (US)",
+        "Presidential Election of 2020",
+        "Voter Fraud (Election Fraud)",
+        "Stimulus (Economic)",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Government Accountability Office"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr",
+        "Clinton, Bill",
+        "Bush, George W"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/opinion/22Blow/merlin_179376840_923fa8e2-14ff-4b49-b6dc-9f7abe9d5f64-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/opinion/22Blow/merlin_179376840_923fa8e2-14ff-4b49-b6dc-9f7abe9d5f64-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/opinion/22Blow/merlin_179376840_923fa8e2-14ff-4b49-b6dc-9f7abe9d5f64-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/opinion/22Blow/merlin_179376840_923fa8e2-14ff-4b49-b6dc-9f7abe9d5f64-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/opinion/22Blow/merlin_179376840_923fa8e2-14ff-4b49-b6dc-9f7abe9d5f64-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Moneymaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/35UvlNN"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Donald Trump Was My Fitspo",
+      "abstract": "Anger at the president kicked many of us into action — or, better yet, activism. Now that he’s on the way out, will those habits stick?",
+      "url": "https://www.nytimes.com/2020/11/23/opinion/trump-fitspo.html",
+      "uri": "nyt://article/417cd3a4-e9a0-54e3-9fa0-7bea7ab0bee1",
+      "byline": "By Nayeema Raza",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:01:44-05:00",
+      "created_date": "2020-11-23T05:00:07-05:00",
+      "published_date": "2020-11-23T05:00:07-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Exercise"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/sunday/23Raza/23Raza-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1369,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cristina Spano"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/sunday/23Raza/23Raza-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cristina Spano"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/sunday/23Raza/23Raza-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cristina Spano"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/sunday/23Raza/23Raza-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cristina Spano"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/sunday/23Raza/23Raza-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cristina Spano"
+        }
+      ],
+      "short_url": "https://nyti.ms/3fnDTzQ"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "All the Empty Seats at the Thanksgiving Table",
+      "abstract": "Even before the pandemic, this holiday was a reminder of loved ones gone before.",
+      "url": "https://www.nytimes.com/2020/11/23/opinion/thanksgiving-covid-families.html",
+      "uri": "nyt://article/da8802ea-a112-592b-a312-ecffaa5b1c84",
+      "byline": "By Margaret Renkl",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:01:45-05:00",
+      "created_date": "2020-11-23T05:00:12-05:00",
+      "published_date": "2020-11-23T05:00:12-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Thanksgiving Day",
+        "Quarantine (Life and Culture)",
+        "Coronavirus (2019-nCoV)",
+        "Families and Family Life"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23renkl1/23renkl1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1524,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author with her grandmother, her great grandmother, right, and her mother, rear.",
+          "copyright": "Courtesy Margaret Renkl"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23renkl1/23renkl1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author with her grandmother, her great grandmother, right, and her mother, rear.",
+          "copyright": "Courtesy Margaret Renkl"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23renkl1/23renkl1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author with her grandmother, her great grandmother, right, and her mother, rear.",
+          "copyright": "Courtesy Margaret Renkl"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23renkl1/23renkl1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author with her grandmother, her great grandmother, right, and her mother, rear.",
+          "copyright": "Courtesy Margaret Renkl"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/opinion/23renkl1/23renkl1-articleInline.jpg",
+          "format": "Normal",
+          "height": 141,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author with her grandmother, her great grandmother, right, and her mother, rear.",
+          "copyright": "Courtesy Margaret Renkl"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lXQRqD"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "Snapshots of Daily Life in a Remote Region of Portugal",
+      "abstract": "The Barroso is one of Portugal’s most isolated areas, known for its rough terrain, abiding agricultural traditions and stunning beauty.",
+      "url": "https://www.nytimes.com/2020/11/23/travel/barroso-portugal-agriculture.html",
+      "uri": "nyt://article/155f7b48-3545-511f-8b74-9a1dc6ccd44f",
+      "byline": "By André Vieira",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:45:32-05:00",
+      "created_date": "2020-11-23T05:00:27-05:00",
+      "published_date": "2020-11-23T05:00:27-05:00",
+      "material_type_facet": "",
+      "kicker": "The World Through a Lens",
+      "des_facet": [
+        "Mines and Mining",
+        "Photography",
+        "Cattle",
+        "Travel and Vacations",
+        "Agriculture and Farming",
+        "Livestock",
+        "Immigration and Emigration"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Europe",
+        "Portugal"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/travel/23travel-portugal-promo/23travel-portugal-promo-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andre Vieira"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/travel/23travel-portugal-promo/23travel-portugal-promo-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andre Vieira"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/travel/23travel-portugal-promo/23travel-portugal-promo-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andre Vieira"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/travel/23travel-portugal-promo/23travel-portugal-promo-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andre Vieira"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/travel/23travel-portugal-promo/23travel-portugal-promo-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andre Vieira"
+        }
+      ],
+      "short_url": "https://nyti.ms/334ITob"
+    },
+    {
+      "section": "sports",
+      "subsection": "",
+      "title": "On Running While Black, With More Hope Than Before",
+      "abstract": "As Black Lives Matter signs popped up in recent months, our columnist grew less wary of running in predominantly white neighborhoods. But is that optimism premature?",
+      "url": "https://www.nytimes.com/2020/11/22/sports/ahmaud-arbery-running-black.html",
+      "uri": "nyt://article/3ef230fd-e908-56dc-8026-f263b0a4df7a",
+      "byline": "By Kurt Streeter",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T12:16:42-05:00",
+      "created_date": "2020-11-22T03:00:08-05:00",
+      "published_date": "2020-11-22T03:00:08-05:00",
+      "material_type_facet": "",
+      "kicker": "Sports of the Times",
+      "des_facet": [
+        "Black People",
+        "Running",
+        "Whites",
+        "Black Lives Matter Movement",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Black Girls Run",
+        "Police Department (Minneapolis, Minn)"
+      ],
+      "per_facet": [
+        "Arbery, Ahmaud (1994-2020)",
+        "Floyd, George (d 2020)"
+      ],
+      "geo_facet": [
+        "Brunswick (Ga)",
+        "Minneapolis (Minn)",
+        "Seattle (Wash)"
+      ],
+      "multimedia": [],
+      "short_url": "https://nyti.ms/2KnUFmY"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Can a Computer Devise a Theory of Everything?",
+      "abstract": "It might be possible, physicists say, but not anytime soon. And there’s no guarantee that we humans will understand the result.",
+      "url": "https://www.nytimes.com/2020/11/23/science/artificial-intelligence-ai-physics-theory.html",
+      "uri": "nyt://article/55cd6067-5e14-5fcf-84de-5d827e9c3ad8",
+      "byline": "By Dennis Overbye",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:26:34-05:00",
+      "created_date": "2020-11-23T05:00:17-05:00",
+      "published_date": "2020-11-23T05:00:17-05:00",
+      "material_type_facet": "",
+      "kicker": "Out There",
+      "des_facet": [
+        "Space and Astronomy",
+        "Computers and the Internet",
+        "Artificial Intelligence",
+        "Mathematics",
+        "Large Hadron Collider",
+        "Supercomputers",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "CERN"
+      ],
+      "per_facet": [
+        "Lanier, Jaron",
+        "Randall, Lisa",
+        "Tegmark, Max"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/24SCI-AIPHYSICS/24SCI-AIPHYSICS-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alex Eben Meyer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/24SCI-AIPHYSICS/24SCI-AIPHYSICS-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alex Eben Meyer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/24SCI-AIPHYSICS/24SCI-AIPHYSICS-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alex Eben Meyer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/24SCI-AIPHYSICS/24SCI-AIPHYSICS-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alex Eben Meyer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/24SCI-AIPHYSICS/24SCI-AIPHYSICS-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alex Eben Meyer"
+        }
+      ],
+      "short_url": "https://nyti.ms/3383jwx"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "2 Killed in Stabbing at San Jose Baptist Church",
+      "abstract": "The police said five people were stabbed at the church on Sunday night. A suspect was in custody, but information on a motive was not immediately available.",
+      "url": "https://www.nytimes.com/2020/11/23/us/san-jose-church-stabbing.html",
+      "uri": "nyt://article/7aca46ed-7f2a-5d7a-88be-3c36056832b7",
+      "byline": "By Yonette Joseph, Yan Zhuang and Kwame Opam",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:35:05-05:00",
+      "created_date": "2020-11-23T01:37:56-05:00",
+      "published_date": "2020-11-23T01:37:56-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides",
+        "Churches (Buildings)",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "San Jose (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/multimedia/23sanjose-stabbing/merlin_180347718_b6a5768f-fa46-4300-8afd-11395eb61740-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The authorities investigated a stabbing at Grace Baptist Church in downtown San Jose, Calif., on Sunday night.",
+          "copyright": "Nhat V. Meyer/Bay Area News Group, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/multimedia/23sanjose-stabbing/23sanjose-stabbing-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The authorities investigated a stabbing at Grace Baptist Church in downtown San Jose, Calif., on Sunday night.",
+          "copyright": "Nhat V. Meyer/Bay Area News Group, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/multimedia/23sanjose-stabbing/23sanjose-stabbing-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The authorities investigated a stabbing at Grace Baptist Church in downtown San Jose, Calif., on Sunday night.",
+          "copyright": "Nhat V. Meyer/Bay Area News Group, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/multimedia/23sanjose-stabbing/merlin_180347718_b6a5768f-fa46-4300-8afd-11395eb61740-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The authorities investigated a stabbing at Grace Baptist Church in downtown San Jose, Calif., on Sunday night.",
+          "copyright": "Nhat V. Meyer/Bay Area News Group, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/multimedia/23sanjose-stabbing/merlin_180347718_b6a5768f-fa46-4300-8afd-11395eb61740-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The authorities investigated a stabbing at Grace Baptist Church in downtown San Jose, Calif., on Sunday night.",
+          "copyright": "Nhat V. Meyer/Bay Area News Group, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3foobo8"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "‘Vision Zero’ Leader Is the Latest to Leave New York Mayor’s Team",
+      "abstract": "The departure of Polly Trottenberg, the New York City transportation commissioner, is likely to signal a raft of departures from the de Blasio administration.",
+      "url": "https://www.nytimes.com/2020/11/23/nyregion/polly-trottenberg-resign-nyc.html",
+      "uri": "nyt://article/622e0fe2-a02a-5bb4-b0a6-a8e789b70260",
+      "byline": "By Dana Rubinstein",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:35:05-05:00",
+      "created_date": "2020-11-23T10:00:06-05:00",
+      "published_date": "2020-11-23T10:00:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "Traffic Accidents and Safety",
+        "Speed Limits and Speeding"
+      ],
+      "org_facet": [
+        "Metropolitan Transportation Authority"
+      ],
+      "per_facet": [
+        "Trottenberg, Polly",
+        "de Blasio, Bill"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/nyregion/23trottenberg-photo/23trottenberg-photo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Polly Trottenberg, at a 2019 news conference, is on President-elect Joseph R. Biden Jr.’s transportation transition team, and could be a candidate to join his cabinet.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/nyregion/23trottenberg-photo/23trottenberg-photo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Polly Trottenberg, at a 2019 news conference, is on President-elect Joseph R. Biden Jr.’s transportation transition team, and could be a candidate to join his cabinet.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/nyregion/23trottenberg-photo/23trottenberg-photo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Polly Trottenberg, at a 2019 news conference, is on President-elect Joseph R. Biden Jr.’s transportation transition team, and could be a candidate to join his cabinet.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/nyregion/23trottenberg-photo/23trottenberg-photo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Polly Trottenberg, at a 2019 news conference, is on President-elect Joseph R. Biden Jr.’s transportation transition team, and could be a candidate to join his cabinet.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/nyregion/23trottenberg-photo/23trottenberg-photo-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Polly Trottenberg, at a 2019 news conference, is on President-elect Joseph R. Biden Jr.’s transportation transition team, and could be a candidate to join his cabinet.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/39aclNs"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "1 Woman Is Killed and 6 Others Are Wounded in Brooklyn Mass Shooting",
+      "abstract": "Two people opened fire at a party in the Bedford-Stuyvesant neighborhood, the police said. The incident reflected a stark rise in shootings in the city.",
+      "url": "https://www.nytimes.com/2020/11/23/nyregion/shooting-brooklyn.html",
+      "uri": "nyt://article/51d672c5-904b-5e51-9396-88c07b05b9a3",
+      "byline": "By Ali Watkins and Nate Schweber",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:35:09-05:00",
+      "created_date": "2020-11-23T08:38:04-05:00",
+      "published_date": "2020-11-23T08:38:04-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides",
+        "Mass Shootings"
+      ],
+      "org_facet": [
+        "Police Department (NYC)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Bedford-Stuyvesant (Brooklyn, NY)",
+        "Brooklyn (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/nyregion/23nyshooting11/23nyshooting11-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1225,
+          "width": 1837,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The party appeared to be a continuation of an earlier gathering for a “Sweet 16” celebration that had been broken up around 7 p.m. ",
+          "copyright": "Kevin Hagen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/nyregion/23nyshooting11/23nyshooting11-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The party appeared to be a continuation of an earlier gathering for a “Sweet 16” celebration that had been broken up around 7 p.m. ",
+          "copyright": "Kevin Hagen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/nyregion/23nyshooting11/23nyshooting11-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The party appeared to be a continuation of an earlier gathering for a “Sweet 16” celebration that had been broken up around 7 p.m. ",
+          "copyright": "Kevin Hagen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/nyregion/23nyshooting11/23nyshooting11-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The party appeared to be a continuation of an earlier gathering for a “Sweet 16” celebration that had been broken up around 7 p.m. ",
+          "copyright": "Kevin Hagen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/nyregion/23nyshooting11/23nyshooting11-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The party appeared to be a continuation of an earlier gathering for a “Sweet 16” celebration that had been broken up around 7 p.m. ",
+          "copyright": "Kevin Hagen for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/35WgSAX"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "‘The Queen’s Gambit’ Sends Chess Set Sales Soaring",
+      "abstract": "The Netflix show about a chess prodigy has reignited interest in the game and fueled demand for sets, accessories and timers.",
+      "url": "https://www.nytimes.com/2020/11/23/arts/television/chess-set-board-sales.html",
+      "uri": "nyt://article/88197e3e-e375-5d89-ae86-363cf7375d4e",
+      "byline": "By Marie Fazio",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:35:10-05:00",
+      "created_date": "2020-11-23T06:00:14-05:00",
+      "published_date": "2020-11-23T06:00:14-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Chess",
+        "The Queen's Gambit (TV Program)",
+        "Quarantine (Life and Culture)",
+        "Television"
+      ],
+      "org_facet": [
+        "International Chess Federation",
+        "Netflix Inc",
+        "United States Chess Federation"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/lens/22xp-chess-gambit2/22xp-chess-gambit2-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anya Taylor-Joy as Beth Harmon in “The Queen’s Gambit.” An eBay official said the company had recorded a 215 percent increase in chess set and accessory sales since the show debuted in October.",
+          "copyright": "via Netflix"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/lens/22xp-chess-gambit2/22xp-chess-gambit2-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anya Taylor-Joy as Beth Harmon in “The Queen’s Gambit.” An eBay official said the company had recorded a 215 percent increase in chess set and accessory sales since the show debuted in October.",
+          "copyright": "via Netflix"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/lens/22xp-chess-gambit2/22xp-chess-gambit2-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anya Taylor-Joy as Beth Harmon in “The Queen’s Gambit.” An eBay official said the company had recorded a 215 percent increase in chess set and accessory sales since the show debuted in October.",
+          "copyright": "via Netflix"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/lens/22xp-chess-gambit2/22xp-chess-gambit2-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anya Taylor-Joy as Beth Harmon in “The Queen’s Gambit.” An eBay official said the company had recorded a 215 percent increase in chess set and accessory sales since the show debuted in October.",
+          "copyright": "via Netflix"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/lens/22xp-chess-gambit2/22xp-chess-gambit2-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anya Taylor-Joy as Beth Harmon in “The Queen’s Gambit.” An eBay official said the company had recorded a 215 percent increase in chess set and accessory sales since the show debuted in October.",
+          "copyright": "via Netflix"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kZEcC9"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "It Was Just Him and His Smiley Face. He’s Charged With Illegal Assembly.",
+      "abstract": "Jolovan Wham, a civil rights activist in Singapore, was charged with violating the Public Order Act for holding up a cardboard sign with a smiley face on it near a police station in March.",
+      "url": "https://www.nytimes.com/2020/11/23/world/asia/singapore-smiley-face-protest-charges.html",
+      "uri": "nyt://article/8e44487f-7b50-5565-90c9-24c7352ca832",
+      "byline": "By Hannah Beech",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:35:11-05:00",
+      "created_date": "2020-11-23T02:30:58-05:00",
+      "published_date": "2020-11-23T02:30:58-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Demonstrations, Protests and Riots",
+        "Human Rights and Human Rights Violations",
+        "Social Media",
+        "Freedom of Assembly",
+        "Freedom of Speech and Expression",
+        "Photography",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Singapore"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23singapore01/merlin_152331648_a40a755a-fe0d-4f8e-9f6d-20417ea4a106-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Singaporean rights activist Jolovan Wham leaving the High Court in Singapore in March 2019.",
+          "copyright": "Roslan Rahman/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23singapore01/23singapore01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Singaporean rights activist Jolovan Wham leaving the High Court in Singapore in March 2019.",
+          "copyright": "Roslan Rahman/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23singapore01/23singapore01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Singaporean rights activist Jolovan Wham leaving the High Court in Singapore in March 2019.",
+          "copyright": "Roslan Rahman/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23singapore01/merlin_152331648_a40a755a-fe0d-4f8e-9f6d-20417ea4a106-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Singaporean rights activist Jolovan Wham leaving the High Court in Singapore in March 2019.",
+          "copyright": "Roslan Rahman/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23singapore01/merlin_152331648_a40a755a-fe0d-4f8e-9f6d-20417ea4a106-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Singaporean rights activist Jolovan Wham leaving the High Court in Singapore in March 2019.",
+          "copyright": "Roslan Rahman/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lWPLvc"
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "France’s Dragnet for Extremists Sweeps Up Some Schoolchildren, Too",
+      "abstract": "When France held a tribute to a teacher killed after a class on freedom of expression, the police interrogated at least 14 students over comments flagged as inappropriate.",
+      "url": "https://www.nytimes.com/2020/11/23/world/europe/france-extremism-children.html",
+      "uri": "nyt://article/841accd0-0c7e-5c09-b341-f1da648e92c1",
+      "byline": "By Norimitsu Onishi and Constant Méheut",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:35:06-05:00",
+      "created_date": "2020-11-23T03:00:16-05:00",
+      "published_date": "2020-11-23T03:00:16-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Freedom of Speech and Expression",
+        "Terrorism",
+        "Children and Childhood",
+        "Muslims and Islam",
+        "Religion-State Relations"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "France"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/world/xxFRANCE-MUSLIM1sub/merlin_180100470_7825144f-8646-434a-84bf-d7fd028926a9-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1463,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emira Yildirim, 10, with her mother, Zulbiye Yildirim. Emira was one of four children questioned by the police in Albertville, France, this month on suspicion of “defending terrorism.”",
+          "copyright": "Andrea Mantovani for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/world/xxFRANCE-MUSLIM1sub/xxFRANCE-MUSLIM1sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emira Yildirim, 10, with her mother, Zulbiye Yildirim. Emira was one of four children questioned by the police in Albertville, France, this month on suspicion of “defending terrorism.”",
+          "copyright": "Andrea Mantovani for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/world/xxFRANCE-MUSLIM1sub/xxFRANCE-MUSLIM1sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emira Yildirim, 10, with her mother, Zulbiye Yildirim. Emira was one of four children questioned by the police in Albertville, France, this month on suspicion of “defending terrorism.”",
+          "copyright": "Andrea Mantovani for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/world/xxFRANCE-MUSLIM1sub/xxFRANCE-MUSLIM1sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emira Yildirim, 10, with her mother, Zulbiye Yildirim. Emira was one of four children questioned by the police in Albertville, France, this month on suspicion of “defending terrorism.”",
+          "copyright": "Andrea Mantovani for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/world/xxFRANCE-MUSLIM1sub/merlin_180100470_7825144f-8646-434a-84bf-d7fd028926a9-articleInline.jpg",
+          "format": "Normal",
+          "height": 136,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emira Yildirim, 10, with her mother, Zulbiye Yildirim. Emira was one of four children questioned by the police in Albertville, France, this month on suspicion of “defending terrorism.”",
+          "copyright": "Andrea Mantovani for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IZmcL0"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "China to Launch Moon Mission to Collect Lunar Rocks",
+      "abstract": "It has been four decades since lunar samples were brought to Earth, and the Chang’e-5 spacecraft’s bounty could have great scientific value.",
+      "url": "https://www.nytimes.com/2020/11/23/science/china-moon-rocks.html",
+      "uri": "nyt://article/f4360a66-04c9-5374-ad75-4124ed667e63",
+      "byline": "By Steven Lee Myers and Kenneth Chang",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:35:10-05:00",
+      "created_date": "2020-11-23T00:10:46-05:00",
+      "published_date": "2020-11-23T00:10:46-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Moon",
+        "Space and Astronomy",
+        "Apollo Project",
+        "Geology",
+        "Rocket Science and Propulsion",
+        "Research",
+        "Solar System"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/science/23china-moon/23china-moon-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Long March 5 rocket that is to lift China’s Chang’e-5 mission to the moon as early as Tuesday morning (Monday afternoon in New York).",
+          "copyright": "Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/science/23china-moon/23china-moon-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Long March 5 rocket that is to lift China’s Chang’e-5 mission to the moon as early as Tuesday morning (Monday afternoon in New York).",
+          "copyright": "Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/science/23china-moon/23china-moon-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Long March 5 rocket that is to lift China’s Chang’e-5 mission to the moon as early as Tuesday morning (Monday afternoon in New York).",
+          "copyright": "Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/science/23china-moon/23china-moon-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Long March 5 rocket that is to lift China’s Chang’e-5 mission to the moon as early as Tuesday morning (Monday afternoon in New York).",
+          "copyright": "Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/science/23china-moon/23china-moon-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Long March 5 rocket that is to lift China’s Chang’e-5 mission to the moon as early as Tuesday morning (Monday afternoon in New York).",
+          "copyright": "Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3flybP2"
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Israeli Reports Say Netanyahu Met Saudi Crown Prince. Saudis Deny It.",
+      "abstract": "Clashing reports about the meeting, which would be the first between high-level Israeli and Saudi leaders, show how far apart the two countries remain.",
+      "url": "https://www.nytimes.com/2020/11/23/world/middleeast/netanyahu-mohammed-bin-salman.html",
+      "uri": "nyt://article/f489ca61-6023-5836-83c3-3c0fb4e13a90",
+      "byline": "By Ben Hubbard, David M. Halbfinger and Ronen Bergman",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:35:05-05:00",
+      "created_date": "2020-11-23T04:28:47-05:00",
+      "published_date": "2020-11-23T04:28:47-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "International Relations"
+      ],
+      "org_facet": [
+        "Group of Twenty"
+      ],
+      "per_facet": [
+        "Netanyahu, Benjamin",
+        "Mohammed bin Salman (1985- )",
+        "Pompeo, Mike"
+      ],
+      "geo_facet": [
+        "Israel",
+        "Saudi Arabia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23israel-saudi01/merlin_180314610_86e92a61-2550-4a50-aa7c-1af5bdafb026-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1345,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A visit to Saudi Arabia by Prime Minister Benjamin Netanyahu of Israel could signal an acceleration of gradually warming relations between the two powers.",
+          "copyright": "Pool photo by Maya Alleruzzo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23israel-saudi01/23israel-saudi01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A visit to Saudi Arabia by Prime Minister Benjamin Netanyahu of Israel could signal an acceleration of gradually warming relations between the two powers.",
+          "copyright": "Pool photo by Maya Alleruzzo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23israel-saudi01/23israel-saudi01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A visit to Saudi Arabia by Prime Minister Benjamin Netanyahu of Israel could signal an acceleration of gradually warming relations between the two powers.",
+          "copyright": "Pool photo by Maya Alleruzzo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23israel-saudi01/23israel-saudi01-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A visit to Saudi Arabia by Prime Minister Benjamin Netanyahu of Israel could signal an acceleration of gradually warming relations between the two powers.",
+          "copyright": "Pool photo by Maya Alleruzzo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/world/23israel-saudi01/merlin_180314610_86e92a61-2550-4a50-aa7c-1af5bdafb026-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A visit to Saudi Arabia by Prime Minister Benjamin Netanyahu of Israel could signal an acceleration of gradually warming relations between the two powers.",
+          "copyright": "Pool photo by Maya Alleruzzo"
+        }
+      ],
+      "short_url": "https://nyti.ms/3pVrUOH"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Jill Paton Walsh, Multigenerational Writer, Dies at 83",
+      "abstract": "Her books for young readers had won acclaim when, in 1994, one for adults made the Booker Prize shortlist — but only after she had resorted to publishing it herself.",
+      "url": "https://www.nytimes.com/2020/11/18/books/jill-paton-walsh-dead.html",
+      "uri": "nyt://article/99dffd7b-d2a4-5e45-bd5d-43d2414fa14b",
+      "byline": "By Neil Genzlinger",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:35:05-05:00",
+      "created_date": "2020-11-18T11:57:53-05:00",
+      "published_date": "2020-11-18T11:57:53-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "Man Booker Prize",
+        "Book Trade and Publishing",
+        "Deaths (Obituaries)",
+        "Knowledge of Angels (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Walsh, Jill Paton",
+        "Sayers, Dorothy L"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/obituaries/23Walsh-obit1/16Walsh1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jill Paton Walsh in 1995. After winning acclaim as an author of books for young adults, she achieved new success the next year with her first adult book, \u0026ldquo;Knowledge of Angels.\u0026rdquo;",
+          "copyright": "Alison Mcdougall/ANL, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/obituaries/23Walsh-obit1/16Walsh1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jill Paton Walsh in 1995. After winning acclaim as an author of books for young adults, she achieved new success the next year with her first adult book, \u0026ldquo;Knowledge of Angels.\u0026rdquo;",
+          "copyright": "Alison Mcdougall/ANL, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/obituaries/23Walsh-obit1/16Walsh1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jill Paton Walsh in 1995. After winning acclaim as an author of books for young adults, she achieved new success the next year with her first adult book, \u0026ldquo;Knowledge of Angels.\u0026rdquo;",
+          "copyright": "Alison Mcdougall/ANL, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/obituaries/23Walsh-obit1/16Walsh1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jill Paton Walsh in 1995. After winning acclaim as an author of books for young adults, she achieved new success the next year with her first adult book, \u0026ldquo;Knowledge of Angels.\u0026rdquo;",
+          "copyright": "Alison Mcdougall/ANL, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/obituaries/23Walsh-obit1/16Walsh1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jill Paton Walsh in 1995. After winning acclaim as an author of books for young adults, she achieved new success the next year with her first adult book, \u0026ldquo;Knowledge of Angels.\u0026rdquo;",
+          "copyright": "Alison Mcdougall/ANL, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/3f9GOw1"
+    },
+    {
+      "section": "your-money",
+      "subsection": "",
+      "title": "Making Financial Decisions When You Don’t Have All the Facts",
+      "abstract": "The president-elect is considering tax changes that could affect stock sales, selling a family business and leaving money to heirs. But we still don’t know how much he’ll be able to do.",
+      "url": "https://www.nytimes.com/2020/11/20/your-money/taxes-wealth-biden.html",
+      "uri": "nyt://article/8c524a8a-c74e-53e4-bf25-5fecc39c29bf",
+      "byline": "By Paul Sullivan",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T08:45:37-05:00",
+      "created_date": "2020-11-20T09:00:09-05:00",
+      "published_date": "2020-11-20T09:00:09-05:00",
+      "material_type_facet": "",
+      "kicker": "wealth matters",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Capital Gains Tax",
+        "Content Type: Service",
+        "Income Tax",
+        "United States Politics and Government",
+        "High Net Worth Individuals",
+        "Wills and Estates",
+        "Family Business"
+      ],
+      "org_facet": [
+        "Internal Revenue Service"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/us/20wealth-01/20wealth-01-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Voters in Norcross, Ga. Two runoff elections in Georgia in January will determine which party controls the Senate and, possibly, what tax changes President-elect Joseph R. Biden Jr. can enact.",
+          "copyright": "Audra Melton for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/us/20wealth-01/20wealth-01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Voters in Norcross, Ga. Two runoff elections in Georgia in January will determine which party controls the Senate and, possibly, what tax changes President-elect Joseph R. Biden Jr. can enact.",
+          "copyright": "Audra Melton for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/us/20wealth-01/20wealth-01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Voters in Norcross, Ga. Two runoff elections in Georgia in January will determine which party controls the Senate and, possibly, what tax changes President-elect Joseph R. Biden Jr. can enact.",
+          "copyright": "Audra Melton for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/us/20wealth-01/20wealth-01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Voters in Norcross, Ga. Two runoff elections in Georgia in January will determine which party controls the Senate and, possibly, what tax changes President-elect Joseph R. Biden Jr. can enact.",
+          "copyright": "Audra Melton for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/20/us/20wealth-01/20wealth-01-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Voters in Norcross, Ga. Two runoff elections in Georgia in January will determine which party controls the Senate and, possibly, what tax changes President-elect Joseph R. Biden Jr. can enact.",
+          "copyright": "Audra Melton for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/36SRhrN"
+    },
+    {
+      "section": "realestate",
+      "subsection": "",
+      "title": "D.I.Y. Microgreens You Can Grow on Your Kitchen Counter",
+      "abstract": "Think of the rewards of cultivating the tastes of summer all through the winter.  You can do this.",
+      "url": "https://www.nytimes.com/2020/11/18/realestate/garden-microgreens.html",
+      "uri": "nyt://article/59dd6121-07cb-5c99-904a-f36f4bad3a74",
+      "byline": "By Margaret Roach",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T08:45:37-05:00",
+      "created_date": "2020-11-18T09:30:11-05:00",
+      "published_date": "2020-11-18T09:30:11-05:00",
+      "material_type_facet": "",
+      "kicker": "IN THE GARDEN",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Gardens and Gardening",
+        "Flowers and Plants",
+        "Herbs",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/realestate/18garden1/oakImage-1605555334478-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New to microgreens? Start with something in the mustard family (Brassicaceae) that offers a quick payoff, like arugula (shown), radish or mizuna (a mild-flavored mustard).",
+          "copyright": "Kate Spring"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/realestate/18garden1/oakImage-1605555334478-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New to microgreens? Start with something in the mustard family (Brassicaceae) that offers a quick payoff, like arugula (shown), radish or mizuna (a mild-flavored mustard).",
+          "copyright": "Kate Spring"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/realestate/18garden1/oakImage-1605555334478-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New to microgreens? Start with something in the mustard family (Brassicaceae) that offers a quick payoff, like arugula (shown), radish or mizuna (a mild-flavored mustard).",
+          "copyright": "Kate Spring"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/realestate/18garden1/oakImage-1605555334478-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New to microgreens? Start with something in the mustard family (Brassicaceae) that offers a quick payoff, like arugula (shown), radish or mizuna (a mild-flavored mustard).",
+          "copyright": "Kate Spring"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/realestate/18garden1/oakImage-1605555334478-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New to microgreens? Start with something in the mustard family (Brassicaceae) that offers a quick payoff, like arugula (shown), radish or mizuna (a mild-flavored mustard).",
+          "copyright": "Kate Spring"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lLOrLq"
+    },
+    {
+      "section": "well",
+      "subsection": "move",
+      "title": "Exercise After Covid-19? Take It Slow",
+      "abstract": "Heart and lung damage can happen after even mild illness, prompting doctors to recommend caution before returning to your workout.",
+      "url": "https://www.nytimes.com/2020/11/17/well/move/exercise-covid-recovery-complications-clots-heart-lungs.html",
+      "uri": "nyt://article/92dcd4ca-ff53-553d-b7fd-71fec1c1d740",
+      "byline": "By Jordan D. Metzl, M.D.",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T08:45:37-05:00",
+      "created_date": "2020-11-17T05:00:09-05:00",
+      "published_date": "2020-11-17T05:00:09-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Content Type: Service",
+        "Exercise",
+        "Heart",
+        "Fatigue",
+        "Blood Clots",
+        "Sports Medicine"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/10/well/well-sports-covid/merlin_179780217_b20956a6-31cd-45f6-b226-6e6c7c95c20e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kathryn Gamble for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/10/well/well-sports-covid/well-sports-covid-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kathryn Gamble for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/10/well/well-sports-covid/well-sports-covid-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kathryn Gamble for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/10/well/well-sports-covid/merlin_179780217_b20956a6-31cd-45f6-b226-6e6c7c95c20e-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kathryn Gamble for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/10/well/well-sports-covid/merlin_179780217_b20956a6-31cd-45f6-b226-6e6c7c95c20e-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kathryn Gamble for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3nCJ95L"
+    },
+    {
+      "section": "parenting",
+      "subsection": "",
+      "title": "Sanitizer for Santa? Families Adapt to a Strange Holiday Season",
+      "abstract": "The pandemic has forced us to find creative new ways to celebrate this year.",
+      "url": "https://www.nytimes.com/2020/11/18/parenting/holiday-family-traditions-coronavirus.html",
+      "uri": "nyt://article/6ba0bf55-01cd-5847-be48-f3aafdd12594",
+      "byline": "By Christina Caron",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T08:45:37-05:00",
+      "created_date": "2020-11-18T14:53:26-05:00",
+      "published_date": "2020-11-18T14:53:26-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Christmas",
+        "Holidays and Special Occasions",
+        "Thanksgiving Day",
+        "Coronavirus (2019-nCoV)",
+        "Parenting",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/multimedia/18parenting-holidays/18parenting-holidays-superJumbo.png",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yann Bastard"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/multimedia/18parenting-holidays/18parenting-holidays-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yann Bastard"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/multimedia/18parenting-holidays/18parenting-holidays-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yann Bastard"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/multimedia/18parenting-holidays/18parenting-holidays-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yann Bastard"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/multimedia/18parenting-holidays/18parenting-holidays-articleInline.png",
+          "format": "Normal",
+          "height": 238,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yann Bastard"
+        }
+      ],
+      "short_url": "https://nyti.ms/3pBRwjP"
+    },
+    {
+      "section": "well",
+      "subsection": "live",
+      "title": "How Do I Make Thanksgiving Grocery Shopping Safer?",
+      "abstract": "With coronavirus cases raging across the U.S., holiday food shopping just got more complicated. We asked the experts for advice.",
+      "url": "https://www.nytimes.com/2020/11/19/well/live/thanksgiving-grocery-shopping-supermarket-safety.html",
+      "uri": "nyt://article/66db5de9-cb1f-55b2-889d-1a7202671942",
+      "byline": "By Tara Parker-Pope",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T09:02:05-05:00",
+      "created_date": "2020-11-19T05:00:10-05:00",
+      "published_date": "2020-11-19T05:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "Ask Well",
+      "des_facet": [
+        "Coronavirus Risks and Safety Concerns",
+        "Content Type: Service",
+        "Shopping and Retail",
+        "Gloves",
+        "Hygiene and Cleanliness",
+        "Disease Rates",
+        "Supermarkets and Grocery Stores",
+        "Protective Clothing and Gear",
+        "Food"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Marr, Linsey"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/well/well-grocery-shopping/well-grocery-shopping-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexi Rosenfeld/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/well/well-grocery-shopping/well-grocery-shopping-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexi Rosenfeld/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/well/well-grocery-shopping/well-grocery-shopping-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexi Rosenfeld/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/well/well-grocery-shopping/well-grocery-shopping-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexi Rosenfeld/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/well/well-grocery-shopping/well-grocery-shopping-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexi Rosenfeld/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/36MBCdC"
+    },
+    {
+      "section": "sports",
+      "subsection": "ncaafootball",
+      "title": "A Quarterback With N.F.L. Potential Pledges to an H.B.C.U., Joining a Trend",
+      "abstract": "“I want to be a trendsetter,” said Noah Bodden, who has announced he will play for Grambling State instead of for one of the wealthier, higher-profile teams at predominantly white colleges.",
+      "url": "https://www.nytimes.com/2020/11/23/sports/ncaafootball/noah-bodden-grambling-state.html",
+      "uri": "nyt://article/e89e48b2-ebfb-5ee0-91ad-7766a8683c98",
+      "byline": "By David Waldstein",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:20:31-05:00",
+      "created_date": "2020-11-23T03:00:13-05:00",
+      "published_date": "2020-11-23T03:00:13-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Football (College)",
+        "Colleges and Universities",
+        "Draft and Recruitment (Sports)",
+        "Historically Black Colleges and Universities"
+      ],
+      "org_facet": [
+        "Grambling State University"
+      ],
+      "per_facet": [
+        "Bodden, Noah"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/sports/23ALTJPquarterback-hbcu-print/23ALTJPquarterback-hbcu-print-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1000,
+          "width": 1503,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Noah Bodden and his high school teammates listening to a debriefing from coaches after a game in Queens last month.",
+          "copyright": "Idris Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/sports/23ALTJPquarterback-hbcu-print/23ALTJPquarterback-hbcu-print-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Noah Bodden and his high school teammates listening to a debriefing from coaches after a game in Queens last month.",
+          "copyright": "Idris Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/sports/23ALTJPquarterback-hbcu-print/23ALTJPquarterback-hbcu-print-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Noah Bodden and his high school teammates listening to a debriefing from coaches after a game in Queens last month.",
+          "copyright": "Idris Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/sports/23ALTJPquarterback-hbcu-print/23ALTJPquarterback-hbcu-print-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Noah Bodden and his high school teammates listening to a debriefing from coaches after a game in Queens last month.",
+          "copyright": "Idris Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/sports/23ALTJPquarterback-hbcu-print/23ALTJPquarterback-hbcu-print-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Noah Bodden and his high school teammates listening to a debriefing from coaches after a game in Queens last month.",
+          "copyright": "Idris Solomon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lY65f1"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "TikTok Mansions Are Publicly Traded Now",
+      "abstract": "Time to learn about reverse takeovers, kids!",
+      "url": "https://www.nytimes.com/2020/11/20/style/clubhouse-tiktok-tongji-west-of-hudson.html",
+      "uri": "nyt://article/215ab2f6-852a-5cf6-86a8-85a8a220ed00",
+      "byline": "By Taylor Lorenz, Peter Eavis and Matt Phillips",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:21:21-05:00",
+      "created_date": "2020-11-20T16:54:30-05:00",
+      "published_date": "2020-11-20T16:54:30-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Mergers, Acquisitions and Divestitures",
+        "Stocks and Bonds",
+        "Social Media"
+      ],
+      "org_facet": [
+        "West of Hudson Group",
+        "Tongji Healthcare Group Inc",
+        "TikTok (ByteDance)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/fashion/20CLUBHOUSE-print/20CLUBHOUSE-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 540,
+          "width": 1024,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Clubhouse, in Beverly Hills, one of several creator houses operated by West of Hudson Group, which took its holdings public in an unusual deal on Wednesday.",
+          "copyright": "Clubhouse"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/fashion/20CLUBHOUSE-print/20CLUBHOUSE-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Clubhouse, in Beverly Hills, one of several creator houses operated by West of Hudson Group, which took its holdings public in an unusual deal on Wednesday.",
+          "copyright": "Clubhouse"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/fashion/20CLUBHOUSE-print/20CLUBHOUSE-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Clubhouse, in Beverly Hills, one of several creator houses operated by West of Hudson Group, which took its holdings public in an unusual deal on Wednesday.",
+          "copyright": "Clubhouse"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/fashion/20CLUBHOUSE-print/20CLUBHOUSE-print-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Clubhouse, in Beverly Hills, one of several creator houses operated by West of Hudson Group, which took its holdings public in an unusual deal on Wednesday.",
+          "copyright": "Clubhouse"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/fashion/20CLUBHOUSE-print/20CLUBHOUSE-articleInline.jpg",
+          "format": "Normal",
+          "height": 100,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Clubhouse, in Beverly Hills, one of several creator houses operated by West of Hudson Group, which took its holdings public in an unusual deal on Wednesday.",
+          "copyright": "Clubhouse"
+        }
+      ],
+      "short_url": "https://nyti.ms/3pOcrAg"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Family History, Uncovered in Quarantine",
+      "abstract": "As Americans splinter into isolated Thanksgivings, some are taking the opportunity to examine their pasts.",
+      "url": "https://www.nytimes.com/2020/11/23/style/family-archives.html",
+      "uri": "nyt://article/bd0e57f8-42de-5209-bfc6-64c74606912e",
+      "byline": "By Michael Venutolo-Mantovani",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T13:22:14-05:00",
+      "created_date": "2020-11-23T08:00:06-05:00",
+      "published_date": "2020-11-23T08:00:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Families and Family Life",
+        "Quarantine (Life and Culture)",
+        "Archives and Records"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/fashion/00FAMILYHISTORY-SUB/00FAMILYHISTORY-SUB-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1615,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Margaret Riegel"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/fashion/00FAMILYHISTORY-SUB/00FAMILYHISTORY-SUB-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Margaret Riegel"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/fashion/00FAMILYHISTORY-SUB/00FAMILYHISTORY-SUB-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Margaret Riegel"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/fashion/00FAMILYHISTORY-SUB/00FAMILYHISTORY-SUB-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Margaret Riegel"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/fashion/00FAMILYHISTORY-SUB/00FAMILYHISTORY-SUB-articleInline.jpg",
+          "format": "Normal",
+          "height": 150,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Margaret Riegel"
+        }
+      ],
+      "short_url": "https://nyti.ms/3pT1JrX"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "5 Moments From the American Music Awards",
+      "abstract": "The ownership of Taylor Swift’s catalog returned as a hot topic during a night highlighted by creative performances, throwback charm and lots of mask wearing.",
+      "url": "https://www.nytimes.com/2020/11/23/arts/music/amas-performances.html",
+      "uri": "nyt://article/c9b04d92-ca3f-5d17-b45e-53cfd76e2914",
+      "byline": "By Olivia Horn",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:11:09-05:00",
+      "created_date": "2020-11-23T11:01:32-05:00",
+      "published_date": "2020-11-23T11:01:32-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "American Music Awards",
+        "Pop and Rock Music",
+        "Rap and Hip-Hop",
+        "Latin Music"
+      ],
+      "org_facet": [
+        "Bell Biv DeVoe (Music Group)"
+      ],
+      "per_facet": [
+        "Eilish, Billie",
+        "Lil Baby (Rapper)",
+        "Megan Thee Stallion (Rapper)",
+        "Swift, Taylor"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/arts/23amas5/merlin_180343260_1b1575ed-8794-402f-a078-55f986544529-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1131,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "During her American Music Awards acceptance speech, Taylor Swift confirmed that she is rerecording her old music.",
+          "copyright": "American Broadcasting Companies, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/arts/23amas5/23amas5-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "During her American Music Awards acceptance speech, Taylor Swift confirmed that she is rerecording her old music.",
+          "copyright": "American Broadcasting Companies, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/arts/23amas5/23amas5-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "During her American Music Awards acceptance speech, Taylor Swift confirmed that she is rerecording her old music.",
+          "copyright": "American Broadcasting Companies, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/arts/23amas5/23amas5-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "During her American Music Awards acceptance speech, Taylor Swift confirmed that she is rerecording her old music.",
+          "copyright": "American Broadcasting Companies, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/23/arts/23amas5/merlin_180343260_1b1575ed-8794-402f-a078-55f986544529-articleInline.jpg",
+          "format": "Normal",
+          "height": 105,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "During her American Music Awards acceptance speech, Taylor Swift confirmed that she is rerecording her old music.",
+          "copyright": "American Broadcasting Companies, via Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/33aoQou"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "‘Black Narcissus’ Review: Nuns, Mountains, High Passion",
+      "abstract": "An FX mini-series revisits a story of sexual repression in the Himalayas and includes a final TV performance by Diana Rigg.",
+      "url": "https://www.nytimes.com/2020/11/22/arts/television/black-narcissus-review.html",
+      "uri": "nyt://article/d4aa1216-e9d0-5e00-972e-36d9f0f9b39e",
+      "byline": "By Mike Hale",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T14:04:11-05:00",
+      "created_date": "2020-11-22T14:16:20-05:00",
+      "published_date": "2020-11-22T14:16:20-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Black Narcissus (Movie)"
+      ],
+      "org_facet": [
+        "FX (TV Network)"
+      ],
+      "per_facet": [
+        "Franciosi, Aisling",
+        "Nivola, Alessandro",
+        "Rigg, Diana"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/arts/22narcissus/merlin_180254118_6dc4b71f-91a9-4f1a-a237-ddf24729b571-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gemma Arterton in the mini-series “Black Narcissus.”",
+          "copyright": "Miya Mizuno/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/arts/22narcissus/22narcissus-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gemma Arterton in the mini-series “Black Narcissus.”",
+          "copyright": "Miya Mizuno/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/arts/22narcissus/22narcissus-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gemma Arterton in the mini-series “Black Narcissus.”",
+          "copyright": "Miya Mizuno/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/arts/22narcissus/22narcissus-mediumThreeByTwo210-v4.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gemma Arterton in the mini-series “Black Narcissus.”",
+          "copyright": "Miya Mizuno/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/arts/22narcissus/merlin_180254118_6dc4b71f-91a9-4f1a-a237-ddf24729b571-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gemma Arterton in the mini-series “Black Narcissus.”",
+          "copyright": "Miya Mizuno/FX"
+        }
+      ],
+      "short_url": "https://nyti.ms/35Qucqy"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Can an Algorithm Prevent Suicide?",
+      "abstract": "The Department of Veterans Affairs has turned to machine-learning to help identify vets at risk of taking their own lives.",
+      "url": "https://www.nytimes.com/2020/11/23/health/artificial-intelligence-veterans-suicide.html",
+      "uri": "nyt://article/3077ffde-818d-5005-b929-936e12085926",
+      "byline": "By Benedict Carey",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T12:33:59-05:00",
+      "created_date": "2020-11-23T05:00:14-05:00",
+      "published_date": "2020-11-23T05:00:14-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Veterans",
+        "Firearms",
+        "Artificial Intelligence",
+        "Computers and the Internet",
+        "Suicides and Suicide Attempts",
+        "your-feed-science",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/23SCI-AI-VETSUICIDE1/merlin_180238041_b6b60dfa-dbe6-4d2f-a028-6fdcc7007ec5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Marianne S. Goodman, a psychiatrist at the Veterans Integrated Service Network in the Bronx. \u0026ldquo;The fact is, we can\u0026rsquo;t rely on trained medical experts to identify people who are truly at high risk,\u0026rdquo; she said.",
+          "copyright": "Bryan Anselm for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/23SCI-AI-VETSUICIDE1/23SCI-AI-VETSUICIDE1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Marianne S. Goodman, a psychiatrist at the Veterans Integrated Service Network in the Bronx. \u0026ldquo;The fact is, we can\u0026rsquo;t rely on trained medical experts to identify people who are truly at high risk,\u0026rdquo; she said.",
+          "copyright": "Bryan Anselm for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/23SCI-AI-VETSUICIDE1/23SCI-AI-VETSUICIDE1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Marianne S. Goodman, a psychiatrist at the Veterans Integrated Service Network in the Bronx. \u0026ldquo;The fact is, we can\u0026rsquo;t rely on trained medical experts to identify people who are truly at high risk,\u0026rdquo; she said.",
+          "copyright": "Bryan Anselm for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/23SCI-AI-VETSUICIDE1/23SCI-AI-VETSUICIDE1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Marianne S. Goodman, a psychiatrist at the Veterans Integrated Service Network in the Bronx. \u0026ldquo;The fact is, we can\u0026rsquo;t rely on trained medical experts to identify people who are truly at high risk,\u0026rdquo; she said.",
+          "copyright": "Bryan Anselm for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/23SCI-AI-VETSUICIDE1/merlin_180238041_b6b60dfa-dbe6-4d2f-a028-6fdcc7007ec5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Marianne S. Goodman, a psychiatrist at the Veterans Integrated Service Network in the Bronx. \u0026ldquo;The fact is, we can\u0026rsquo;t rely on trained medical experts to identify people who are truly at high risk,\u0026rdquo; she said.",
+          "copyright": "Bryan Anselm for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3nPDyck"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "How Some Skinks Lost Their Legs and Then Evolved New Ones",
+      "abstract": "The lizards have complicated a rule of thumb that in evolution, once you lose a body part, you don’t regain it.",
+      "url": "https://www.nytimes.com/2020/11/10/science/skinks-lizards-legs.html",
+      "uri": "nyt://article/64db7ff2-33b5-512f-8702-54037376bb99",
+      "byline": "By Veronique Greenwood",
+      "item_type": "Article",
+      "updated_date": "2020-11-17T00:09:23-05:00",
+      "created_date": "2020-11-10T19:09:36-05:00",
+      "published_date": "2020-11-10T19:09:36-05:00",
+      "material_type_facet": "",
+      "kicker": "Trilobites",
+      "des_facet": [
+        "Reptiles",
+        "Research",
+        "Evolution (Biology)",
+        "your-feed-science",
+        "your-feed-animals"
+      ],
+      "org_facet": [
+        "Proceedings of the Royal Society B (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Philippines"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/10TB-SKINKS-02/10TB-SKINKS-02-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some skinks, like Brachymeles boulengeri, have more developed limbs with five fingers and toes.",
+          "copyright": "Philip Bergmann"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/10TB-SKINKS-02/10TB-SKINKS-02-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some skinks, like Brachymeles boulengeri, have more developed limbs with five fingers and toes.",
+          "copyright": "Philip Bergmann"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/10TB-SKINKS-02/10TB-SKINKS-02-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some skinks, like Brachymeles boulengeri, have more developed limbs with five fingers and toes.",
+          "copyright": "Philip Bergmann"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/10TB-SKINKS-02/10TB-SKINKS-02-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some skinks, like Brachymeles boulengeri, have more developed limbs with five fingers and toes.",
+          "copyright": "Philip Bergmann"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/10TB-SKINKS-02/10TB-SKINKS-02-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some skinks, like Brachymeles boulengeri, have more developed limbs with five fingers and toes.",
+          "copyright": "Philip Bergmann"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IqGah8"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "A Record of Horseback Riding, Written in Bone and Teeth",
+      "abstract": "Close examination of horse remains has clarified the timeline of when equestrianism helped transform ancient Chinese civilization.",
+      "url": "https://www.nytimes.com/2020/11/13/science/horses-china-archaeology.html",
+      "uri": "nyt://article/587ae9c7-0974-558e-be9a-be778b759651",
+      "byline": "By Katherine Kornei",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T07:42:26-05:00",
+      "created_date": "2020-11-13T05:00:23-05:00",
+      "published_date": "2020-11-13T05:00:23-05:00",
+      "material_type_facet": "",
+      "kicker": "Trilobites",
+      "des_facet": [
+        "Horses",
+        "Archaeology and Anthropology",
+        "Bones",
+        "Teeth and Dentistry",
+        "Spine (Body Part)",
+        "Research",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Proceedings of the National Academy of Sciences"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/13TB-HORSES-02/13TB-HORSES-02-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Horse skeletons from M012K2 at Shirenzigou",
+          "copyright": "Jian Ma"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/13TB-HORSES-02/13TB-HORSES-02-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Horse skeletons from M012K2 at Shirenzigou",
+          "copyright": "Jian Ma"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/13TB-HORSES-02/13TB-HORSES-02-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Horse skeletons from M012K2 at Shirenzigou",
+          "copyright": "Jian Ma"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/13TB-HORSES-02/13TB-HORSES-02-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Horse skeletons from M012K2 at Shirenzigou",
+          "copyright": "Jian Ma"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/13TB-HORSES-02/13TB-HORSES-02-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Horse skeletons from M012K2 at Shirenzigou",
+          "copyright": "Jian Ma"
+        }
+      ],
+      "short_url": "https://nyti.ms/2K8mhwx"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Ready to Mate? Take Off Your Mask, One Bat Says",
+      "abstract": "Wrinkle-faced bats incorporate whistles, wing flaps and furry masks into their mating rituals, researchers have found.",
+      "url": "https://www.nytimes.com/2020/11/11/science/wrinkle-faced-bats.html",
+      "uri": "nyt://article/a1eea0e8-8093-588f-8c2b-004c7b904d05",
+      "byline": "By Katherine J. Wu",
+      "item_type": "Article",
+      "updated_date": "2020-11-17T00:11:08-05:00",
+      "created_date": "2020-11-11T14:00:11-05:00",
+      "published_date": "2020-11-11T14:00:11-05:00",
+      "material_type_facet": "",
+      "kicker": "Trilobites",
+      "des_facet": [
+        "Bats",
+        "Reproduction (Biological)",
+        "Research",
+        "Biology and Biochemistry",
+        "your-feed-science",
+        "your-feed-animals"
+      ],
+      "org_facet": [
+        "Public Library of Science (PLoS)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Costa Rica"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/11WRINKLEFACEDBATS1/11WRINKLEFACEDBATS1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1350,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The devilishly handsome male wrinkle-faced bat in Costa Rica.",
+          "copyright": "M. Tschapka"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/11WRINKLEFACEDBATS1/11WRINKLEFACEDBATS1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The devilishly handsome male wrinkle-faced bat in Costa Rica.",
+          "copyright": "M. Tschapka"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/11WRINKLEFACEDBATS1/11WRINKLEFACEDBATS1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The devilishly handsome male wrinkle-faced bat in Costa Rica.",
+          "copyright": "M. Tschapka"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/11WRINKLEFACEDBATS1/11WRINKLEFACEDBATS1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The devilishly handsome male wrinkle-faced bat in Costa Rica.",
+          "copyright": "M. Tschapka"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/science/11WRINKLEFACEDBATS1/11WRINKLEFACEDBATS1-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The devilishly handsome male wrinkle-faced bat in Costa Rica.",
+          "copyright": "M. Tschapka"
+        }
+      ],
+      "short_url": "https://nyti.ms/2UkdTfc"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Whatever It Is, It’s Probably Not Hair Dye",
+      "abstract": "Hairdressers weigh in on Rudy Giuliani’s drip problem.",
+      "url": "https://www.nytimes.com/2020/11/19/style/rudy-giuliani-hair.html",
+      "uri": "nyt://article/98e31a6a-1107-546f-a68d-36df13ce9b24",
+      "byline": "By Jonah Engel Bromwich",
+      "item_type": "Article",
+      "updated_date": "2020-11-20T10:21:35-05:00",
+      "created_date": "2020-11-19T17:01:16-05:00",
+      "published_date": "2020-11-19T17:01:16-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dyes and Dyestuffs",
+        "Hair"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Giuliani, Rudolph W"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/merlin_180212883_915fd9ca-ba94-495a-acb9-31293b2abc1f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1372,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudolph W. Giuliani, President Trump’s personal attorney, at a news conference on Thursday about the results of the 2020 presidential election.",
+          "copyright": "Jonathan Ernst/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/19rudy-hair-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudolph W. Giuliani, President Trump’s personal attorney, at a news conference on Thursday about the results of the 2020 presidential election.",
+          "copyright": "Jonathan Ernst/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/19rudy-hair-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudolph W. Giuliani, President Trump’s personal attorney, at a news conference on Thursday about the results of the 2020 presidential election.",
+          "copyright": "Jonathan Ernst/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/19rudy-hair-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudolph W. Giuliani, President Trump’s personal attorney, at a news conference on Thursday about the results of the 2020 presidential election.",
+          "copyright": "Jonathan Ernst/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/merlin_180212883_915fd9ca-ba94-495a-acb9-31293b2abc1f-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudolph W. Giuliani, President Trump’s personal attorney, at a news conference on Thursday about the results of the 2020 presidential election.",
+          "copyright": "Jonathan Ernst/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kIaVM1"
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "After Trump’s Embrace, Saudis Brace for a Chillier Tone From Biden",
+      "abstract": "Saudi Arabia’s leaders counted on President Trump’s unwavering support, but President-elect Biden has vowed to take away the kingdom’s “dangerous blank check.”",
+      "url": "https://www.nytimes.com/2020/11/20/world/middleeast/saudi-arabia-biden-trump.html",
+      "uri": "nyt://article/19af1f76-1c35-515b-889b-53f29ef192cd",
+      "byline": "By Ben Hubbard",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T06:13:35-05:00",
+      "created_date": "2020-11-20T11:35:44-05:00",
+      "published_date": "2020-11-20T11:35:44-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States International Relations",
+        "United States Politics and Government",
+        "Presidential Transition (US)",
+        "Arms Trade",
+        "Human Rights and Human Rights Violations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Mohammed bin Salman (1985- )",
+        "Reema bint Bandar bin Sultan, Princess of Saudi Arabia",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Saudi Arabia",
+        "Middle East",
+        "Yemen",
+        "Iran"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/world/19biden-saudi/19biden-saudi-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1306,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“America will never again check its principles at the door just to buy oil or sell weapons,” President-elect Joseph R. Biden Jr. said during the campaign.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/world/19biden-saudi/19biden-saudi-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“America will never again check its principles at the door just to buy oil or sell weapons,” President-elect Joseph R. Biden Jr. said during the campaign.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/world/19biden-saudi/19biden-saudi-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“America will never again check its principles at the door just to buy oil or sell weapons,” President-elect Joseph R. Biden Jr. said during the campaign.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/world/19biden-saudi/19biden-saudi-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“America will never again check its principles at the door just to buy oil or sell weapons,” President-elect Joseph R. Biden Jr. said during the campaign.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/19/world/19biden-saudi/19biden-saudi-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 121,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“America will never again check its principles at the door just to buy oil or sell weapons,” President-elect Joseph R. Biden Jr. said during the campaign.",
+          "copyright": "Ruth Fremson/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3nMrJ6J"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Party at a Queens Sex Club With 80 People Is Shut Down by Sheriff",
+      "abstract": "Despite rising virus cases, guests crowded into a swingers club in Queens, while 120 people gathered in Midtown.",
+      "url": "https://www.nytimes.com/2020/11/22/nyregion/sex-club-covid-sheriff-nyc.html",
+      "uri": "nyt://article/90343fd9-2f7c-5634-8d97-3a1e2d19c21e",
+      "byline": "By Troy Closson",
+      "item_type": "Article",
+      "updated_date": "2020-11-23T10:56:17-05:00",
+      "created_date": "2020-11-22T19:52:06-05:00",
+      "published_date": "2020-11-22T19:52:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Parties (Social)",
+        "Bars and Nightclubs",
+        "Disease Rates",
+        "Quarantines"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City",
+        "Queens (NYC)",
+        "Manhattan (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/nyregion/nyvirus-parties/nyvirus-parties-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 800,
+          "width": 1200,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Queens party was hosted by Caligula New York, a swingers’ club.",
+          "copyright": "New York City Sheriff's Office"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/nyregion/nyvirus-parties/nyvirus-parties-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Queens party was hosted by Caligula New York, a swingers’ club.",
+          "copyright": "New York City Sheriff's Office"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/nyregion/nyvirus-parties/nyvirus-parties-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Queens party was hosted by Caligula New York, a swingers’ club.",
+          "copyright": "New York City Sheriff's Office"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/nyregion/nyvirus-parties/nyvirus-parties-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Queens party was hosted by Caligula New York, a swingers’ club.",
+          "copyright": "New York City Sheriff's Office"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/nyregion/nyvirus-parties/nyvirus-parties-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Queens party was hosted by Caligula New York, a swingers’ club.",
+          "copyright": "New York City Sheriff's Office"
+        }
+      ],
+      "short_url": "https://nyti.ms/3fv94JB"
+    }
+  ]
+}

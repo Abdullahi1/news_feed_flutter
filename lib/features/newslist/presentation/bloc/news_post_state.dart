@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:new_feed/model/NewsResponse.dart';
+import 'package:new_feed/features/newslist/domain/entity/news_entity.dart';
 
 class NewsPostState extends Equatable {
   NewsPostState();
@@ -13,7 +13,7 @@ class NewsPostInitial extends NewsPostState {}
 class NewsPostFailure extends NewsPostState {}
 
 class NewsPostSuccess extends NewsPostState {
-  final NewsResponse newsPost;
+  final NewsEntity newsPost;
 
   NewsPostSuccess({this.newsPost});
 

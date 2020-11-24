@@ -1,11 +1,15 @@
+import 'package:floor/floor.dart';
+
 import 'Result.dart';
 
+@Entity(tableName: "news_response")
 class NewsResponse {
+  @PrimaryKey()
+  String section;
   String copyright;
   String last_updated;
   int num_results;
   List<Result> results;
-  String section;
   String status;
 
   NewsResponse(
@@ -13,8 +17,8 @@ class NewsResponse {
       this.last_updated,
       this.num_results,
       this.results,
-      this.section,
-      this.status});
+    this.section,
+    this.status});
 
   factory NewsResponse.fromJson(Map<String, dynamic> json) {
     return NewsResponse(
