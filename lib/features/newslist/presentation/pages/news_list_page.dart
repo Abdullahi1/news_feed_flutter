@@ -74,10 +74,15 @@ class NewsListPage extends StatelessWidget {
               return ListView.builder(
                   itemBuilder: (context, index) {
                     final newsData = state.newsPost.results;
+                    String multimediaUrl = timesNewYorkUrl;
+                    if (newsData[index].multimedia == null ||
+                        newsData[index].multimedia.isEmpty) {
+                      multimediaUrl = timesNewYorkUrl;
+                    } else {
+                      multimediaUrl = newsData[index].multimedia[0].url;
+                    }
                     return NewsTile(
-                      newsImageUrl: newsData[index].multimedia == null
-                          ? timesNewYorkUrl
-                          : newsData[index].multimedia[0].url,
+                      newsImageUrl: multimediaUrl,
                       newsTitle: newsData[index].title,
                       newsAbstract: newsData[index].abstract,
                       newsUrl: newsData[index].url,

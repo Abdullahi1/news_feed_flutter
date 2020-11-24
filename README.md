@@ -1,4 +1,4 @@
-# new_feed
+# News Feed
 
 A new Flutter application.
 

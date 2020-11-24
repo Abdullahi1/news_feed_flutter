@@ -24,20 +24,13 @@ void main() {
   group("Get News List", () {
     final tSection = "home";
     final tApiKey = "23kdnidsisdn";
-    final NewsResponse response = NewsResponse.fromJson(
-        jsonDecode(fixture("newsData.json").replaceAll(r"\'", "'")));
-
-    print(fixture("newsData.json").replaceAll(r"\'", "'"));
 
     test(
         "should perform a GET request on a URL with number being the endpoint and with application/json header",
         () async {
-      print(fixture("newsData.json").replaceAll("'", "\""));
-
-      when(mockHttpClient.get(any, headers: {
-        HttpHeaders.contentTypeHeader: 'application/json',
-      })).thenAnswer((_) async =>
-          http.Response(fixture('newsData.json').replaceAll(r"\'", "'"), 200));
+      when(mockHttpClient.get(any, headers: anyNamed('headers'))).thenAnswer(
+          (_) async => http.Response(
+              utf8.decode(await fixtureAsByte('newsData.json')), 200));
 
       remoteDataSource.getNewsList(tSection, tApiKey);
 
@@ -48,19 +41,22 @@ void main() {
           }));
     });
 
-    test("Should return News Response Object when the response code is 200",
-        () async {
-      when(mockHttpClient.get(any)).thenAnswer(
-          (_) async => http.Response(fixture('newsData.json'), 200));
+    test(
+        "Should return instance of News Response Object when the response code is 200",
+            () async {
+          when(mockHttpClient.get(any, headers: anyNamed('headers')))
+              .thenAnswer(
+                  (_) async => http.Response(
+                  utf8.decode(await fixtureAsByte('newsData.json')), 200));
 
-      final result = await remoteDataSource.getNewsList(tSection, tApiKey);
+          final result = await remoteDataSource.getNewsList(tSection, tApiKey);
 
-      expect(result, equals(response));
-    });
+          expect(result, isA<NewsResponse>());
+        });
 
     test("Should throw server error when the response code is 404 or others",
         () {
-      when(mockHttpClient.get(any))
+          when(mockHttpClient.get(any, headers: anyNamed('headers')))
           .thenAnswer((_) async => http.Response("Something went wrong", 404));
 
       final result = remoteDataSource.getNewsList;
