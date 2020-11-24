@@ -23,8 +23,7 @@ class NewsListRemoteDataSourceImpl extends NewsListRemoteDataSource {
         });
 
     if (response.statusCode == 200) {
-      String data = response.body;
-      var decodeData = jsonDecode(data);
+      var decodeData = jsonDecode(utf8.decode(response.bodyBytes));
       return NewsResponse.fromJson(decodeData);
     } else {
       throw ServerException();
